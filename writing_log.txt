@@ -1,0 +1,7 @@
+Writing Log
+
+This is a log to keep track of writing that doesn't end up on gihub. However, it allows me to continue tracking daily writing progress with each commit recorded in the github history.
+
+2017-09-02
+    NSF - worked on Intro
+    
