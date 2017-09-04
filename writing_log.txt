@@ -5,3 +5,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 2017-09-02
     NSF - worked on Intro
     
+2017-09-03
+    NSF - started section on brown dwarf cloud particle constraints
+    
