@@ -7,4 +7,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
     
 2017-09-03
     NSF - started section on brown dwarf cloud particle constraints
-    
+
+2017-09-05
+    NSF - started exoplanet section
