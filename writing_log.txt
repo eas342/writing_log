@@ -10,3 +10,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2017-09-05
     NSF - started exoplanet section
+
+2017-09-16
+    NIRCam stability report - made time series for NIRCam + NIRISS simultaneous test.
