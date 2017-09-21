@@ -13,3 +13,7 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2017-09-16
     NIRCam stability report - made time series for NIRCam + NIRISS simultaneous test.
+
+2017-09-21
+    About 40 min writing on NSF proposal.
+    
