@@ -16,4 +16,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2017-09-21
     About 40 min writing on NSF proposal.
-    
+
+2017-09-26
+    More details on JWST in NSF proposal.
