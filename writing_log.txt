@@ -19,3 +19,7 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2017-09-26
     More details on JWST in NSF proposal.
+
+2017-09-27
+    More description of JWST targets in NSF proposal.
+    
