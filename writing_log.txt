@@ -28,3 +28,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2017-10-01
     More description of JWST targets and models
+
+2017-10-03
+    More on WASP-80 b.
