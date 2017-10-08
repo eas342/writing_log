@@ -34,3 +34,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2017-10-06
     Bio sketch formatting and preparation.
+
+2017-10-07
+    Desciption of how WASP-107 b and HAT-P-26 b atmospheres can be compared.
