@@ -37,3 +37,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2017-10-07
     Desciption of how WASP-107 b and HAT-P-26 b atmospheres can be compared.
+
+2017-10-08
+    More on GTO targets and outreach program for NSF
