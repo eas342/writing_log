@@ -40,3 +40,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2017-10-08
     More on GTO targets and outreach program for NSF
+
+2017-10-09
+    More on NSF proposal - data management plan, proposal and project summary.
