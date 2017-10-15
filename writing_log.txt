@@ -50,3 +50,5 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 2017-10-11
     Edited and finished up NSF proposal.
 
+2017-10-14
+    Prepared images w/ CHIMERA models for GTO target observations
