@@ -52,3 +52,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2017-10-14
     Prepared images w/ CHIMERA models for GTO target observations
+
+2017-10-15
+    Worked more on Sagan research proposal text.
