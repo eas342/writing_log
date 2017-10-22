@@ -55,3 +55,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2017-10-15
     Worked more on Sagan research proposal text.
+
+2017-10-20
+    Edited Sagan research proposal text based on comments I got.
