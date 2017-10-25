@@ -64,3 +64,10 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2017-10-22
     Edited Sagan proposal based on Irene's comments.
+
+2017-10-23
+    Edited Sagan proposal based on Tom's comments.
+
+2017-10-14
+    A sprinkling on Sagan proposal. prev research and JWST forecasts.
+    
