@@ -76,3 +76,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2017-10-29
     Swapped Sagan/Hubble research experience essays w/ Irene and updated based on her comments.
+
+2017-10-31
+    Final updates to Sagan/Hubble w/ M Line's comments incorporated.
