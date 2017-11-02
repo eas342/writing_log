@@ -79,3 +79,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2017-10-31
     Final updates to Sagan/Hubble w/ M Line's comments incorporated.
+
+2017-11-01
+    Started NIRCam OPD Oscillation Report
