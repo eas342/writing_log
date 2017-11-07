@@ -82,3 +82,16 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2017-11-01
     Started NIRCam OPD Oscillation Report
+
+2017-11-02
+    Finished OPD oscillation report draft 1.
+
+2017-11-03
+    OPD report new draft with a little more on science case and higher amplitude cases.
+
+2017-11-04
+    Finished writing 1 page Intro for JWST forecasts paper.
+
+2017-11-06
+	Adjusted Chimera code for forecasts paper.
+	
