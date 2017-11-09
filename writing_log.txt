@@ -94,4 +94,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2017-11-06
 	Adjusted Chimera code for forecasts paper.
-	
+
+2017-11-08
+	More twiddling with Chimera to get the latest CK chem consistent to work.
