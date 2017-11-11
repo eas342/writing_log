@@ -97,3 +97,9 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2017-11-08
 	More twiddling with Chimera to get the latest CK chem consistent to work.
+
+2017-11-09
+	More updates to OPD oscillation report for lower wavefront errors.
+
+2017-11-10
+	More futzing with Multinest. Got it to work on elgato but now can't do it with ocelote. I'm confused!
