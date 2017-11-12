@@ -103,3 +103,7 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2017-11-10
 	More futzing with Multinest. Got it to work on elgato but now can't do it with ocelote. I'm confused!
+
+2017-11-11
+	More inspection of Chimera - why is this template taking so long to converge?
+	
