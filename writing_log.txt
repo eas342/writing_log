@@ -107,3 +107,5 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 2017-11-11
 	More inspection of Chimera - why is this template taking so long to converge?
 	
+2017-11-15
+	Started incorporating the CK trans model into genplanet_trans. Started incorporating parameter-changing capabilities.
