@@ -109,3 +109,7 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 	
 2017-11-15
 	Started incorporating the CK trans model into genplanet_trans. Started incorporating parameter-changing capabilities.
+
+2017-11-16
+	Fixed errors in CHimera run where I wasn't properly setting resume=True
+
