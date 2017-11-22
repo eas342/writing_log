@@ -115,3 +115,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2017-11-19
 	More investigating why Multinest is having such a hard time convergin.
+
+2017-11-21
+	More updates to Intro
