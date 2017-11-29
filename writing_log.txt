@@ -118,3 +118,7 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2017-11-21
 	More updates to Intro
+
+2017-11-28
+	Updated X/Y axis for exposure parameters report w/ locations of spectra and direct images.
+
