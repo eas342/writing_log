@@ -122,3 +122,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 2017-11-28
 	Updated X/Y axis for exposure parameters report w/ locations of spectra and direct images.
 
+2017-11-29
+	Several hours trouble-shooting the Transmission Template & why it's so slow w/ Multinest.
+
