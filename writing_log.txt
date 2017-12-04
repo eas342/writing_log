@@ -127,3 +127,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2017-12-02
 	More troubleshooting Multinest Installation
+
+2017-12-03
+	After, in my view, an enormous amount of effort, installed pymultinest on Ocelote using correct mpi4py.
