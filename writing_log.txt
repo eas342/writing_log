@@ -136,3 +136,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2017-12-08
 	Got the new CK code mostly incorporated in a general way. STILL NEED TO READ IN THE CORRECT STELLAR SPECTRUM though.
+
+2017-12-09
+	Updated the CK emission code to read the correct stellar spectrum from current_planet_parms. Also wrote out the scientific goals in the Intro.
