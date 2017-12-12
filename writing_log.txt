@@ -142,3 +142,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2017-12-10
 	Started adjusting the CK emission template so we can see the contributions from each molecules. Something isn't work with it yet.
+
+2017-12-11
+	Found guess parameters to match exisiting data for the GTO survey.
