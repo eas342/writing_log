@@ -145,3 +145,8 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2017-12-11
 	Found guess parameters to match exisiting data for the GTO survey.
+
+2017-12-12
+	Incorporated guess parameters into the parameter-changing code and fixed the stellar F calculation in ck_ems.fm
+
+
