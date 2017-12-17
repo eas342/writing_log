@@ -151,3 +151,7 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2017-12-13
 	Update descriptions and plots of all CK models of GTO targets tweaked to match exisiting data.
+
+2017-12-16
+	Made a summary plot of IRTF SpeX BD spectro-photometry.
+
