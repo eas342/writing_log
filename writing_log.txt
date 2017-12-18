@@ -155,3 +155,5 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 2017-12-16
 	Made a summary plot of IRTF SpeX BD spectro-photometry.
 
+2017-12-17
+	Started intro and observations sections of BD variability paper 2.
