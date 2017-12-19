@@ -157,3 +157,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2017-12-17
 	Started intro and observations sections of BD variability paper 2.
+
+2017-12-18
+	More descriptions of models for GTO forecasts paper.
