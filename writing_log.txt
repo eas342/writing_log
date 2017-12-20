@@ -163,3 +163,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2017-12-19
 	Further tweaks to initial models in GTO forecasts paper.
+
+2017-12-20
+	Corrections to eclipse map plot. Also started installing pymultinest w/ MPI to my own machine to run tests.
