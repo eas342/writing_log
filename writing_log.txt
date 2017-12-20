@@ -160,3 +160,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2017-12-18
 	More descriptions of models for GTO forecasts paper.
+
+2017-12-19
+	Further tweaks to initial models in GTO forecasts paper.
