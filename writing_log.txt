@@ -166,3 +166,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2017-12-20
 	Corrections to eclipse map plot. Also started installing pymultinest w/ MPI to my own machine to run tests.
+
+2017-12-21
+	Got a PBS job runnign on Ocelote using planet parameters for WASP-80 b transmission.
