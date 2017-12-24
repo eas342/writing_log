@@ -169,3 +169,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2017-12-21
 	Got a PBS job runnign on Ocelote using planet parameters for WASP-80 b transmission.
+
+2017-12-23
+	Got the emission code working on Ocelote w/ an example run template.
