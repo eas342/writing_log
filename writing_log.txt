@@ -175,3 +175,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2017-12-24
 	Used the parameter script to create runs for all GTO targets and started them all on Ocelote. It's letting me run 5 jobs on 4 nodes each for a total of 560 CPUs at once! Probably because its a holiday.
+
+2017-12-27
+	Made a preliminary mass-metallicity plot from the multinest results.
