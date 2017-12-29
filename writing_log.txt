@@ -178,3 +178,9 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2017-12-27
 	Made a preliminary mass-metallicity plot from the multinest results.
+
+2017-12-28
+	Tried troubleshooting why the derived parameters are so off but did not succeed.
+
+2017-12-29
+	Fixed the problem. I was using fractions instead of percentiles in np percentile!
