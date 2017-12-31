@@ -187,3 +187,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2017-12-30
 	Saved all truths for runs for future reference in case code changes.
+
+2017-12-31
+	Made corner plots for all GTO runs.
