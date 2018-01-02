@@ -190,3 +190,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2017-12-31
 	Made corner plots for all GTO runs.
+
+2018-01-02
+	Made comparison plots of LogL, truth and simulated data.
