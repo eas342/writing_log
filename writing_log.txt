@@ -196,3 +196,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-01-03
 	Compiled all the corner plots and spectra of logL, truth and sim data.
+
+2018-01-04
+	Tracked down bug affecting all initial GTO runs.
