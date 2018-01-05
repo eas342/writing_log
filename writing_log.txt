@@ -199,3 +199,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-01-04
 	Tracked down bug affecting all initial GTO runs.
+
+2018-01-05
+	Updated all spectra with the correct un-correlated noise and also added more descriptions of the exisiting data.
