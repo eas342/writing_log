@@ -202,3 +202,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-01-05
 	Updated all spectra with the correct un-correlated noise and also added more descriptions of the exisiting data.
+
+2018-01-06
+	Analyzed WASP-80 b transmission run and it still hasn't found the truth nor do the likelihoods approach the correct chi-squared = 1.
