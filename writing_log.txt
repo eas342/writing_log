@@ -209,3 +209,5 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 2018-01-07
 	Analyzed 10 percent efficiency mode. Now there's an island of probability closer to the truth but its still a little wonky. Starting a run without constant efficieny mode.
 
+2018-01-08
+	Wrote a little about how the runs were performed.
