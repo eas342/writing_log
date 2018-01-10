@@ -211,3 +211,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-01-08
 	Wrote a little about how the runs were performed.
+
+2018-01-09
+	Small edits to sections 1 through 2.3.
