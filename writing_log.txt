@@ -218,3 +218,8 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 2018-01-11
 	Started the limb mapping calculation.
 
+2018-01-12
+	Created plots for bimodal distributions derived for Wasp-80b and HAT-P-26b.
+
+2018-01-13
+	Created a run to see if NIRIS breaks the bimodal distribution.
