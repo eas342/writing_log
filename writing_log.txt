@@ -223,3 +223,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-01-13
 	Created a run to see if NIRIS breaks the bimodal distribution.
+
+2018-01-14
+	Madea a plot to show benefit of NIRISS in breaking bimidoal distribution.
