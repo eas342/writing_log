@@ -225,4 +225,7 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 	Created a run to see if NIRIS breaks the bimodal distribution.
 
 2018-01-14
-	Madea a plot to show benefit of NIRISS in breaking bimidoal distribution.
+	Made a plot to show benefit of NIRISS in breaking bimidoal distribution.
+
+2018-01-15
+	Ran the same NIRISS check for HAT-P-26 b.
