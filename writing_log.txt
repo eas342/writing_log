@@ -229,3 +229,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-01-15
 	Ran the same NIRISS check for HAT-P-26 b.
+
+2018-01-16
+	Updated the bimodal distribution to show how NIRISS breaks it.
