@@ -232,3 +232,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-01-16
 	Updated the bimodal distribution to show how NIRISS breaks it.
+
+2018-01-17
+	Updated the mass-metallicity plot with the more recent NIRISS through MIRI results and the true inputs.
