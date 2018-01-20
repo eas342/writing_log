@@ -241,3 +241,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-01-19
 	Made updates to plots and text with GJ 436, WASP-107 NSNCMI reults and WASP-80 b emission.
+
+2018-01-20
+	Collected GTO Results and started another noise instance of HD 189733.
