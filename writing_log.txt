@@ -244,3 +244,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-01-20
 	Collected GTO Results and started another noise instance of HD 189733.
+
+2018-01-21
+	Updated the mass metallicity plot with a second noise instance for HD 18973
