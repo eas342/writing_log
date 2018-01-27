@@ -256,3 +256,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-01-24
 	Added a plot to show the retrieved C/O ratios as compared to Mordasini models and input C/O.
+
+2018-01-26
+	Wrote a few paragraphs on C/O ratios.
