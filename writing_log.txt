@@ -259,3 +259,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-01-26
 	Wrote a few paragraphs on C/O ratios.
+
+2018-01-27
+	Updated supplement with HST binning info and also compiled HAT-P-26 b results with HST binning.
