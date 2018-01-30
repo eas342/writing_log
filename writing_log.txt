@@ -265,3 +265,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-01-28
 	Added in HST WASP-80 b retrieval results.
+
+2018-01-29
+	Adjusted abstract text and added WASP-107b HST + NIRCam + MIRI results.
