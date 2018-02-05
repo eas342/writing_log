@@ -283,3 +283,7 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-02-03
 	Ran a new HAT-P-26 b retrieval with lower error bars to see what the posterior looks like.
+
+2018-02-04
+	Updated half spectrum, looked at high SNR results and started a run including STIS data.
+
