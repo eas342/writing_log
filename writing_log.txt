@@ -289,3 +289,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-02-05
 	Updated half spectrum and started preparing different models for each hemisphere.
+
+2018-02-06
+	Updated all corner plots and created two different models for the hemispheres.
