@@ -298,3 +298,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-02-08
 	Did fixups and edits all through the text of the paper. Might be ready to send to the team soon.
+
+2018-02-09
+	More editing of intro and model description.
