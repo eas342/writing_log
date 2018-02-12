@@ -304,3 +304,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-02-10
 	More forecasts paper edits including fixing up units.
+
+2018-02-11
+	updated the descriptions of the cloud parameters.
