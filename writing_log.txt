@@ -307,3 +307,9 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-02-11
 	updated the descriptions of the cloud parameters.
+
+2018-02-12
+	Finished conclusion and sent out draft.
+
+2018-02-13
+	Started NIRCam lab paper.
