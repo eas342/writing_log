@@ -313,3 +313,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-02-13
 	Started NIRCam lab paper.
+
+2018-02-15
+	Went through Tom's comments in title, abstract and intro
