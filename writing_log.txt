@@ -322,3 +322,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-02-17
 	spent a bit of time finding the one sentence justification for the xi=0.3 offset hot spot model.
+
+2018-02-18
+	Finished going through and addressing Tom's comments.
