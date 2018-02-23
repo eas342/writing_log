@@ -331,3 +331,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-02-21
 	added some references and notes about the bimodal solutions and how to break them, as suggested by Jacob.
+
+2018-02-22
+	updated mass-metallicity plot and text.
