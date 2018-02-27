@@ -337,3 +337,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-02-25
 	Did a read-through to section 3 for errors.
+
+2018-02-26
+	further read-aloud checks through the conclusions
