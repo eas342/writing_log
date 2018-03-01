@@ -340,3 +340,9 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-02-26
 	further read-aloud checks through the conclusions
+
+2018-02-27
+	Started a GO proposal.
+
+2018-02-28
+	More on the GO intro.
