@@ -347,5 +347,8 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 2018-02-28
 	More on the GO intro.
 
-2018-02-29
+2018-03-01
 	More on GO intro and science just.
+
+2018-03-02
+	Started a NASA Keck proposal.
