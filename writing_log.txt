@@ -352,3 +352,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-03-02
 	Started a NASA Keck proposal.
+
+2018-03-03
+	Prepping MIRI LRS spec figure.
