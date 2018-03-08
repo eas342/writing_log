@@ -358,3 +358,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-03-06
 	A few tweaks to the forecasts paper observing description.
+
+2018-03-07
+	Put in most of Jonathan and Mike's comments.
