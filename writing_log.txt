@@ -362,5 +362,8 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 2018-03-07
 	Put in most of Jonathan and Mike's comments.
 
-2018-03-08
+2018-03-09
 	Worked on Sci Justification for GO proposal.
+
+2018-03-10
+	Worked on Keck proposal text on plane.
