@@ -379,3 +379,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-03-15
 	Submitted NASA Keck proposal.
+
+2018-03-16
+	Micro progress on eclipse mapping stuff.
