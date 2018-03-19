@@ -385,3 +385,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-03-17
 	Adjusted avg time series plots to show astrophysical variability.
+
+2018-03-18
+	Updated plots to better show stdev of the two systems and also adjusted text a little in technical just.
