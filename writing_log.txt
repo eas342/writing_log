@@ -391,3 +391,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-03-19
 	Some updates to text on two mode solutions.
+
+2018-03-20
+	Updated JWST forecasts paper with MCMC fitting for eclipse mapping results.
