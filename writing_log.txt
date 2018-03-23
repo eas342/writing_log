@@ -394,3 +394,9 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-03-20
 	Updated JWST forecasts paper with MCMC fitting for eclipse mapping results.
+
+2018-03-21
+	Submitted forecasts paper to AAS Journals and the arXiv.
+
+2018-03-22
+	A little bit on proposal science just.
