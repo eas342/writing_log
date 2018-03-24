@@ -400,3 +400,9 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-03-22
 	A little bit on proposal science just.
+
+2018-03-23
+	Micro progress on proposal.
+
+2018-03-24
+	More proposal calcs.
