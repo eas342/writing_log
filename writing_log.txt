@@ -405,4 +405,7 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 	Micro progress on proposal.
 
 2018-03-24
-	More proposal calcs.
+	More proposal calcs and APT file.
+
+2018-03-25
+	More APT tweaks and added theo spec w/ error bars.
