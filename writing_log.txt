@@ -409,3 +409,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-03-25
 	More APT tweaks and added theo spec w/ error bars.
+
+2018-03-26
+	Made simulated NIRSpec prism data w/ Mie model.
