@@ -413,5 +413,10 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 2018-03-26
 	Made simulated NIRSpec prism data w/ Mie model.
 
-2018-03-27
+2018-03-28
 	Started cloud paper with a simple plot.
+
+2018-03-29
+	Developed a better model than yesterday.
+
+	
