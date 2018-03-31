@@ -419,4 +419,5 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 2018-03-29
 	Developed a better model than yesterday.
 
-	
+2018-03-30
+	Found out that my idea is already published. Went back to some edits on KIC 1255. Probably will be a Research Note.
