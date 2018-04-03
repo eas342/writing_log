@@ -424,3 +424,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-03-31
 	Updating the BD survey paper with some info on 2MASS J0859+6341.
+
+2018-04-02
+	Updated the BD surve paper with som diagnosis of the systematics affecting 2MASS 0025
