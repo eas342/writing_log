@@ -427,3 +427,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-04-02
 	Updated the BD surve paper with som diagnosis of the systematics affecting 2MASS 0025
+
+2018-04-03
+	Condensed KIC 1255 paper into research note.
