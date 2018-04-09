@@ -433,3 +433,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-04-05
 	Updates to KIC 1255 photometry plot & descrip.
+
+2018-04-08
+	A few writeups of results w/ spectral matchin on KIC 1255's Subaru spec.
