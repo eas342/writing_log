@@ -445,3 +445,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-04-12
 	Re-combined research note with supplemental stuff for a full paper.
+
+2018-04-13
+	PCA stuff on K1255.
