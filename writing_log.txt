@@ -457,3 +457,7 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-04-16
 	added a histo plot for K1255 amplitudes.
+
+2018-04-17
+	updated histo plots, deconvolution and periodogram
+
