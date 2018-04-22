@@ -469,3 +469,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-04-20
 	Edited intro and photometry sects of k1255 paper.
+
+2018-04-21
+	Bunch of extra details on photometric observations.
