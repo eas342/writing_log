@@ -472,3 +472,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-04-21
 	Bunch of extra details on photometric observations.
+
+2018-04-23
+	Fitting functions for KIC 1255 photometry.
