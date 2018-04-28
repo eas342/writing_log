@@ -475,3 +475,15 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-04-23
 	Fitting functions for KIC 1255 photometry.
+
+2018-04-24
+	Fitting for all KIC 1255 nights.
+
+2018-04-25
+	Added table of results of amplitude fits.
+
+2018-04-26
+	Comparison of the Kepler and ground-based phot distributions.
+
+2018-04-27
+	KS tests and better histogram comparison.
