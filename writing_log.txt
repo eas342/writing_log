@@ -487,3 +487,7 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-04-27
 	KS tests and better histogram comparison.
+
+2018-04-28
+	Added plot showing 2D residuals.
+
