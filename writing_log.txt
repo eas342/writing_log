@@ -499,3 +499,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-05-01
 	More PCA and periodogram descrip. Also corrected sampling.
+
+2018-05-05
+	More background info added to the intro.
