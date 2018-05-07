@@ -505,3 +505,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-05-05
 	Some description of PCA.
+
+2018-05-06
+	Showing PCA residuals.
