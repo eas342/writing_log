@@ -514,3 +514,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-05-08
 	Cleaning up the description of the HDS data.
+
+2018-05-09
+	Updated PCA with non-standardized version.
