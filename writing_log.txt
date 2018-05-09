@@ -511,3 +511,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-05-07
 	More about HDS spectra.
+
+2018-05-08
+	Cleaning up the description of the HDS data.
