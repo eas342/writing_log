@@ -518,8 +518,11 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 2018-05-09
 	Updated PCA with non-standardized version.
 
-2018-06-11
+2018-05-11
 	Started incorporating edits from referee.
 
-2018-06-12
+2018-05-12
 	Addressed referee comments 1 and 2.
+
+2018-05-13
+	Started addressing referee comment 3.
