@@ -532,3 +532,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-05-15
 	Tiedied up referee comments.
+
+2018-05-16
+	Started an HST proposal to get some ideas on paper.
