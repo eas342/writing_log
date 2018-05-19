@@ -538,3 +538,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-05-17
 	Added observing table to forecasts paper.
+
+2018-05-18
+	Tweaked mass-metal language for forecasts paper and PCA updates on K1255.
