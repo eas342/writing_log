@@ -544,3 +544,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-05-19
 	Final corrections to forecasts paper after read-through.
+
+2018-05-21
+	After AJ acceptance, formatted for arXiv.
