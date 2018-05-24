@@ -550,3 +550,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-05-22
 	Tweaks do HDS description.
+
+2018-05-23
+	Comparison between reductions of the 2013 spectrum.
