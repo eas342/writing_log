@@ -553,3 +553,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-05-23
 	Comparison between reductions of the 2013 spectrum.
+
+2018-05-24
+	Plot comparison of Mg lines in 2013 vs 2015.
