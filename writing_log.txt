@@ -556,3 +556,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-05-24
 	Plot comparison of Mg lines in 2013 vs 2015.
+
+2018-05-25
+	Edits to Subaru spectra section.
