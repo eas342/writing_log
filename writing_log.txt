@@ -559,3 +559,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-05-25
 	Edits to Subaru spectra section.
+
+2018-05-26
+	More tweaks to the spectrum writeup.
