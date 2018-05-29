@@ -565,3 +565,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-05-27
 	Finished this run-through of the spectrum writeup.
+
+2018-05-28
+	Target search for HST proposal.
