@@ -568,3 +568,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-05-28
 	Target search for HST proposal.
+
+2018-05-29
+	SNR for HST proposal.
