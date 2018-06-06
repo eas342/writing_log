@@ -586,3 +586,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-06-03
 	Paragraph to intro on Spectra. Also explored minimum & avg methods for transit depth.
+
+2018-06-05
+	Edited photometric pipeline section.
