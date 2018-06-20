@@ -601,3 +601,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-06-18
 	Went over forecasts paper proof and submitted comments.
+
+2018-06-19
+	Started saving FWHM in phot pipeline.
