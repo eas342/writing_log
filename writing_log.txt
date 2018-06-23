@@ -604,3 +604,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-06-19
 	Started saving FWHM in phot pipeline.
+
+2018-06-22
+	Editin tser fitting and PCA sections.
