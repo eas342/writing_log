@@ -610,3 +610,7 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-06-23
 	More editing of PCA section.
+
+2018-06-24
+	Added plot of transformed PCA eigenvectors.
+
