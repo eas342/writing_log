@@ -622,3 +622,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-06-27
 	More edits to PC time series.
+
+2018-06-28
+	Finished editin PC section and now looking at statistics.
