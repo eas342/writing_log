@@ -628,3 +628,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-06-29
 	Analysis trying to reproduce peak in Hajime's histogram.
+
+2018-07-03
+	More comparisons with Hajime's time series and wrote up conclusions.
