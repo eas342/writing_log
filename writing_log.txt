@@ -637,3 +637,10 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-07-05
 	Edited abstract and intro more.
+
+2018-07-06
+	Edited throughout and sent out draft.
+
+2018-07-07
+	More SNR Calcs for HST proposal.
+
