@@ -646,3 +646,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-07-08
 	Saving more FITS header info.
+
+2018-07-09
+	Plot for HST proposal.
