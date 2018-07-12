@@ -652,3 +652,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-07-10
 	Some more SNR for HST proposal.
+
+2018-07-11
+	HST abstract, after honing in on targets.
