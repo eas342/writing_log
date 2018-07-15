@@ -661,3 +661,10 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-07-13
 	HST proposal buffer & overheads considerations.
+
+2018-07-14
+	SNR calcs
+
+2018-07-15
+	More on sims.
+
