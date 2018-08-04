@@ -673,3 +673,9 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-07-29
 	Several paragraphs on science justification.
+
+2018-08-01
+	Submitted KIC 1255 paper.
+
+2018-08-04
+	Ran SNR, bin and sim and spectra for second planet.
