@@ -679,3 +679,7 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-08-04
 	Ran SNR, bin and sim and spectra for second planet.
+
+2018-08-05
+	Updated potential target list and checked MAST more thoroughly.
+
