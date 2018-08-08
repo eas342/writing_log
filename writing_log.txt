@@ -685,3 +685,7 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-08-06
 	Some edits to text and updated figure.
+
+2018-08-07
+	Some calcs for proposal.
+
