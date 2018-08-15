@@ -694,3 +694,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-08-13
 	Draft 2 of HST proposal.
+
+2018-08-14
+	Going through a bunch of comments on HST proposal.
