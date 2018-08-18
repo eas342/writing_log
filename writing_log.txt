@@ -697,3 +697,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-08-14
 	Going through a bunch of comments on HST proposal.
+
+2018-08-18
+	Some calcs for Steward proposal.
