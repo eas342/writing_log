@@ -700,3 +700,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-08-18
 	Some calcs for Steward proposal.
+
+2018-08-20
+	Short NC grism writeup for website.
