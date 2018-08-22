@@ -703,3 +703,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-08-20
 	Short NC grism writeup for website.
+
+2018-08-21
+	Some updates to intro.
