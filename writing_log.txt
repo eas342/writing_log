@@ -709,3 +709,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-11-10
 	Started formatting research proposal from fellowship to faculty.
+
+2018-11-12
+	More on research proposal.
