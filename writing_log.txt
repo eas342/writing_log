@@ -721,3 +721,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-11-20
 	More on research statement.
+
+2018-11-21
+	Research statement now fits in 3 pg.
