@@ -730,3 +730,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-11-23
 	Corrected typos in CV.
+
+2018-11-24
+	Corrected typos in research statement and teaching statement.
