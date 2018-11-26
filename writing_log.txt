@@ -733,3 +733,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-11-24
 	Corrected typos in research statement and teaching statement.
+
+2018-11-25
+	Updated colors and (hopefully) clarity of ideal photodioide diagram.
