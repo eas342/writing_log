@@ -736,3 +736,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-11-25
 	Updated colors and (hopefully) clarity of ideal photodioide diagram.
+
+2018-11-26
+	Edited cover letter.
