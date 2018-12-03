@@ -745,3 +745,7 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-11-30
 	Finished editing and submitting job app.
+
+2018-12-02
+	Troubleshooting higher order sph harmonic fits.
+
