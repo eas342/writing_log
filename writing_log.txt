@@ -751,3 +751,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-12-03
 	Starting the beginning of mapping paper intro.
+
+2018-12-07
+	Worked on abstract and intro of mapping paper.
