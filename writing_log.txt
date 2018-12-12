@@ -760,3 +760,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-12-11
 	More updates to intro and abstract of mapping paper.
+
+2018-12-12
+	Edits to OTIS section of lab paper.
