@@ -769,3 +769,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-12-14
 	Started merging Megan's code that uses BIC and outputs posteriors with high_harmonics.
+
+2018-12-14
+	Merged the BIC and saving samples stuff from Megan's branch.
