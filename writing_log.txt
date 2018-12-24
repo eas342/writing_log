@@ -787,3 +787,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-12-20
 	Plotting up higher sph harmonics against original quadrant inputs.
+
+2018-12-24
+	Adjusted run_higher_sph harmonics to optionally look at different lightcurves and organize output by lightcurve.
