@@ -790,3 +790,8 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-12-24
 	Adjusted run_higher_sph harmonics to optionally look at different lightcurves and organize output by lightcurve.
+
+2018-12-26
+	Tested out some runs with the hotspot model. Something is up with binning the eigenspectra.
+
+
