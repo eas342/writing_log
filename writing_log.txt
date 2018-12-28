@@ -795,3 +795,5 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 	Tested out some runs with the hotspot model. Something is up with binning the eigenspectra.
 
 
+2018-12-27
+	Running higher order sph harm for hot spot and organizing notebook.
