@@ -797,3 +797,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-12-27
 	Running higher order sph harm for hot spot and organizing notebook.
+
+2018-01-08
+	Long dark series for A3 detector.
