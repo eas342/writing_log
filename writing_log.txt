@@ -803,3 +803,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2018-01-10
 	More investigation of 1/f and subarray sizes.
+
+2018-01-12
+	More direct comparison of aperture photometry on full frame within subarray config test.
