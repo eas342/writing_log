@@ -798,14 +798,17 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 2018-12-27
 	Running higher order sph harm for hot spot and organizing notebook.
 
-2018-01-08
+2019-01-08
 	Long dark series for A3 detector.
 
-2018-01-10
+2019-01-10
 	More investigation of 1/f and subarray sizes.
 
-2018-01-12
+2019-01-12
 	More direct comparison of aperture photometry on full frame within subarray config test.
 
-2018-01-15
+2019-01-15
 	Making plots of subarray config, with better photometry
+
+2019-01-19
+	Filled out section on amplifier boundary discontinuities.
