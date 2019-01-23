@@ -816,5 +816,8 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 2019-01-21
 	More edits throughout and notes on what are some next steps.
 
-2018-01-22
+2019-01-22
 	Started HST proposal.
+
+2019-01-23
+	Editing HST proposal.
