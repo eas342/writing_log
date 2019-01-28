@@ -822,5 +822,8 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 2019-01-23
 	Editing HST proposal.
 
-2091-01-24
+2019-01-24
 	Specmatch results for HST prop.
+
+2019-01-28
+	Archive search for HST proposal.
