@@ -827,3 +827,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-01-28
 	Archive search for HST proposal.
+
+2019-01-29
+	Starting another HST proposal idea.
