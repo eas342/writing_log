@@ -833,3 +833,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-01-30
 	Correlated read noise impact on NIRCam time series.
+
+2018-02-01
+	Spent an hour on 2nd HST proposal.
