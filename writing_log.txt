@@ -839,3 +839,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-02-02
 	More on Fig 1 of HST prop.
+
+2019-02-03
+	More on Fig 1 and intro.
