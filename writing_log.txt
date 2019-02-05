@@ -842,3 +842,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-02-03
 	More on Fig 1 and intro.
+
+2018-02-04
+	Started Spitzer proposal.
