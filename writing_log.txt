@@ -851,3 +851,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-02-06
 	More on Spitzer proposal, but now wondering if it is eligible.
+
+2019-02-08
+	More on HST proposal.
