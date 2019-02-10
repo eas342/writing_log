@@ -854,3 +854,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-02-08
 	More on HST proposal.
+
+2019-02-09
+	Searching Open Exoplanet catalogue for planets not in NASA one.
