@@ -857,3 +857,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-02-09
 	Searching Open Exoplanet catalogue for planets not in NASA one.
+
+2019-02-10
+	Small edits to HST prop 1 intro.
