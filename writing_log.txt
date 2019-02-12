@@ -860,3 +860,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-02-10
 	Small edits to HST prop 1 intro.
+
+2019-02-11
+	More on targets for HST prop.
