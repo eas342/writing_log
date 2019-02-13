@@ -866,3 +866,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-02-12
 	Detailed table of parameters and references for HST prop.
+
+2019-02-13
+	More on photosensitive operation for lab paper.
