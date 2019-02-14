@@ -869,3 +869,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-02-13
 	More on photosensitive operation for lab paper.
+
+2019-02-14
+	More calcs for HST proposal.
