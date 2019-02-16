@@ -872,3 +872,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-02-14
 	More calcs for HST proposal.
+
+2019-02-16
+	Redid long dark experiment for grism-like aperture.
