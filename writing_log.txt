@@ -875,3 +875,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-02-16
 	Redid long dark experiment for grism-like aperture.
+
+2019-02-17
+	Starting to plot multiple aperture geometries in one place.
