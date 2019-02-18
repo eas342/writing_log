@@ -878,3 +878,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-02-17
 	Starting to plot multiple aperture geometries in one place.
+
+2019-02-18
+	Started a new HST prop recycling from previous ones.
