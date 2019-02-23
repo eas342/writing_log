@@ -887,3 +887,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-02-21
 	More on 2nd HST proposal.
+
+2019-02-22
+	More on 2nd HST sci just.
