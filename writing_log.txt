@@ -895,4 +895,7 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 	More calcs for lab paper.
 
 2019-02-24
-	some calcs of photon vs correlated read noise
+	some calcs of photon vs correlated read noise for lab paper
+
+2019-02-25
+	HST proposal SNR calcs and spectra.
