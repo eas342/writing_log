@@ -899,3 +899,7 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-02-25
 	HST proposal SNR calcs and spectra.
+
+2019-02-26
+	More editing of sci just of HST prop 2.
+
