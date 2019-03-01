@@ -908,3 +908,7 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-02-28
 	Comparing Pandexo with online ETC.
+
+2019-03-01
+	Scripted SNR calcs for future HST proposals.
+
