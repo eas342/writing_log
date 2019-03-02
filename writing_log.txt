@@ -912,3 +912,5 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 2019-03-01
 	Scripted SNR calcs for future HST proposals.
 
+2019-03-02
+	SNR calcs for HST prop 1.
