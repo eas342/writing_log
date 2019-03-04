@@ -914,3 +914,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-03-02
 	SNR calcs for HST prop 1.
+
+2019-03-03
+	Time series plot for HST prop 1.
