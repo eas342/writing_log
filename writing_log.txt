@@ -926,3 +926,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-03-06
 	Updated special requirements and observing description for HST prop 1.
+
+2019-03-07
+	Updated APT file for HST prop 1.
