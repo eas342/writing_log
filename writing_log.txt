@@ -929,3 +929,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-03-07
 	Updated APT file for HST prop 1.
+
+2019-03-08
+	Sci just edits to HSt prop 1.
