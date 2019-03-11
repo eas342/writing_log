@@ -935,3 +935,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-03-10
 	Revisiting the archive for HST prop 2.
+
+2019-03-11
+	Models and SNR for 2 new targets.
