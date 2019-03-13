@@ -941,3 +941,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-03-12
 	Started an IRTF proposal.
+
+2019-03-13
+	Working on APT file for HST prop 2.
