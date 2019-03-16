@@ -950,3 +950,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-03-15
 	Added a new target for HST prop 2.
+
+2019-03-16
+	Updated fig and tables for additional targ HST prop 2.
