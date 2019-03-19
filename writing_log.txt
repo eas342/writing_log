@@ -959,3 +959,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-03-18
 	Sent out draft of HST prop 1.
+
+2019-03-19
+	Edits to HST prop 2.
