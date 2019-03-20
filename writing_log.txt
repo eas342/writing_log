@@ -962,3 +962,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-03-19
 	Edits to HST prop 2.
+
+2019-03-20
+	Edits to HST prop 1.
