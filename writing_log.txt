@@ -968,3 +968,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-03-21
 	Edits to HST prop Sci Just and updated spectra.
+
+2019-03-22
+	Combined spectra plot for HST prop 2.
