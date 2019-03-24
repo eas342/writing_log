@@ -974,3 +974,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-03-23
 	Incorporating comments on HST prop 2.
+
+2019-03-24
+	Preparing models for retrievals for HST prop 2.
