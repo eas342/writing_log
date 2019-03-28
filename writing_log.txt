@@ -980,3 +980,9 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-03-25
 	Started a Steward proposal.
+
+2019-03-26
+	Sent out Steward proposal.
+
+2019-03-27
+	Incorpating feedback on Steward proposal.
