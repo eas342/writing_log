@@ -986,3 +986,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-03-27
 	Incorpating feedback on Steward proposal.
+
+2019-03-28
+	Got retrievals running for HST proposal.
