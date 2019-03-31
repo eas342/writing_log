@@ -995,3 +995,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-03-30
 	More edits to HST prop 2 and Steward prop.
+
+2019-03-31
+	Submitted a new Steward prop draft.
