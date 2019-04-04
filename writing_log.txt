@@ -1001,3 +1001,9 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-04-01
 	Submitted PIT, edited HST prop 2.
+
+2019-04-02
+	Edits to HST prop 2 from Co-I comments.
+
+2019-04-03
+	Edits to HST prop 2 from Co-I comments. Some edits to HST prop 1.
