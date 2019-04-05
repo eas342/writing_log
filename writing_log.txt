@@ -1007,3 +1007,9 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-04-03
 	Edits to HST prop 2 from Co-I comments. Some edits to HST prop 1.
+
+2019-04-04
+	Edits prop 1 and 2.
+
+2019-04-05
+	Final edits on HST prop 1 and prop 2.
