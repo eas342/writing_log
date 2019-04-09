@@ -1016,3 +1016,9 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-04-06
 	Some edits to photcal paper.
+
+2019-04-07
+	Started Spitzer DDT
+
+2019-04-08
+	Spitzer DDT edits.
