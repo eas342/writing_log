@@ -1022,3 +1022,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-04-08
 	Spitzer DDT edits.
+
+2019-04-09
+	Spitzer DDT edits.
