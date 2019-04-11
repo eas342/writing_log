@@ -1028,3 +1028,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-04-10
 	Spitzer Scienc plan stuff
+
+2019-04-11
+	Spitzer Science plan stuff again.
