@@ -1031,3 +1031,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-04-11
 	Spitzer Science plan stuff again.
+
+2019-04-12
+	Worked on crosshatch stuff for lab paper.
