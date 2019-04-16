@@ -1040,3 +1040,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-04-14
 	A few tiny checks on calcs for Spitzer prop.
+
+2019-04-15
+	Finishing up first draft of Spitzer prop.
