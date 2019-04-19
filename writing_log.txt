@@ -1049,3 +1049,9 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-04-17
 	Edits to Spitzer prop.
+
+2019-04-18
+	Edits to Spitzer prop and lab paper.
+
+3029-04-19
+	Edits to crosshatch section of lab paper.
