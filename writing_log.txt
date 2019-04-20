@@ -1056,3 +1056,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-04-19
 	Edits to Spitzer prop.
+
+2019-04-20
+	Updates to Solar Analogs for Spitzer prop.
