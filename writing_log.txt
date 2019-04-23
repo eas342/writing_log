@@ -1065,3 +1065,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-04-22
 	Simulation for Spitzer proposal.
+
+2019-04-23
+	Another Spitzer draft sent out.
