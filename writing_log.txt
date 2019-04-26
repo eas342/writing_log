@@ -1072,3 +1072,5 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 2019-04-24
 	Ever more Spizter edits.
 
+2019-04-26
+	Submitted Spitzer prop.
