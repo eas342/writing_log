@@ -1074,3 +1074,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-04-26
 	Submitted Spitzer prop.
+
+2019-04-27
+	More on subpixel crosshatch for lab paper.
