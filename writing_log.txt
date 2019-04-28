@@ -1077,3 +1077,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-04-27
 	More on subpixel crosshatch for lab paper.
+
+2019-04-28
+	More on subpixel crosshatch for lab paper.
