@@ -1083,3 +1083,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-04-29
 	Trying to fit subpixel crosshatch in the Fourier domain.
+
+2019-04-30
+	Prescription for Fourier amplitude.
