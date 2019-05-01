@@ -1086,3 +1086,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-04-30
 	Prescription for Fourier amplitude.
+
+2019-05-01
+	Description of crosshatch sim.
