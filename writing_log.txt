@@ -1092,3 +1092,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-05-02
 	Separated lattice drawing and PSD figures. Also, finally have a crosshatch exp model with original phase.
+
+2019-05-03
+	Fit the PSD and writing up how.
