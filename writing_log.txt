@@ -1095,3 +1095,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-05-03
 	Fit the PSD and writing up how.
+
+2019-05-04
+	Plotted wavelength dependnce of crosshatch.
