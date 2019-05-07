@@ -1104,3 +1104,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-05-06
 	Simulated jitter under crosshatch.
+
+2019-05-07
+	Made a more realistic crosshatch flat and wrote up simulation results.
