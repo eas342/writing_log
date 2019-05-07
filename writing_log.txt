@@ -1101,3 +1101,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-05-05
 	Made simulated PSF and flat both in oversampled space.
+
+2019-05-06
+	Simulated jitter under crosshatch.
