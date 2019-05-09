@@ -1107,3 +1107,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-05-07
 	Made a more realistic crosshatch flat and wrote up simulation results.
+
+2019-05-08
+	Subtracted 1/f noise row-by-row from the original RED file instead of slp file.
