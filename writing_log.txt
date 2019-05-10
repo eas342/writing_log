@@ -1113,3 +1113,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-05-09
 	Did photometry from row-by-row and col-by-col subtraction on RED file
+
+2019-05-09
+	Did photometry when subtracting smoothed image from the RED file.
