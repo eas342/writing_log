@@ -1119,3 +1119,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-05-11
 	Splitting up the large file into red files to better understand the 1/f noise residuals.
+
+2019-05-12
+	Spelling out the read noise/shot noise calculations some more.
