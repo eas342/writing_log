@@ -1125,3 +1125,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-05-13
 	More 1/f calculations and did row-by-row subtraction at the group level.
+
+2019-05-14
+	Finished sorted the K-means groups and spectra.
