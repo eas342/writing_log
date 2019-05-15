@@ -1128,3 +1128,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-05-14
 	Finished sorted the K-means groups and spectra.
+
+2019-05-15
+	Resolving some bugs in the Eigenspectra code.
