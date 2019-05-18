@@ -1138,3 +1138,5 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 2019-05-17
 	Prototyped a flipped amplifier method for subtracting 1/f (at least for dark frames).
 
+2019-05-18
+	Tried out the flipped amplifier method on the time series.
