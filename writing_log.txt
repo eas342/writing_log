@@ -1146,3 +1146,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-05-20
 	Plotted up the periodograms of the different amplifiers.
+
+2019-05-21
+	PCA-based approach to 1/f corrections.
