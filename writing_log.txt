@@ -1153,3 +1153,5 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 2019-05-22
 	Updates to Intro of Cal paper with 2019 info. Also added a Sensivity plot for NIRISS.
 
+2019-05-23
+	Testing photometry with the PCA-based method to correct 1/f noise.
