@@ -1158,3 +1158,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-05-24
 	Writing up the phot with PCA-based method and also trying more principal components.
+
+2019-05-25
+	Examing the subpixel crosshatching in specfic regions of the A5 detector.
