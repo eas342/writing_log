@@ -1161,3 +1161,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-05-25
 	Examing the subpixel crosshatching in specfic regions of the A5 detector.
+
+2019-05-26
+	Showing 3 different stripe regions and their PSD for crosshatch considerations.
