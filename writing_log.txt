@@ -1164,3 +1164,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-05-26
 	Showing 3 different stripe regions and their PSD for crosshatch considerations.
+
+2019-05-27
+	Fit the different stripe regions of the crosshatch pattern.
