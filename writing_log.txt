@@ -1180,3 +1180,5 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 2019-05-31
 	Starting jitter sims for different array locations.
 
+2019-06-01
+	Normalizing the 2D PSD so it doesn't depend on the number of pixels used.
