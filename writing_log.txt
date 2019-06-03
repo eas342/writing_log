@@ -1182,3 +1182,11 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-06-01
 	Normalizing the 2D PSD so it doesn't depend on the number of pixels used.
+
+2019-06-02
+	Working on the size-invariant fitting of crosshatch more.
+
+2019-06-02
+	Some testing of size-invariant fitting are looking promising.
+
+
