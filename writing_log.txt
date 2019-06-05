@@ -1191,3 +1191,9 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-06-03
 	Writing up some of the notation of the Fourier fits and also tried another scaling size experiment.
+
+2019-06-04
+	More scaling size experiments.
+
+2019-06-05
+	More scaling size experiments.
