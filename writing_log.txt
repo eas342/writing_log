@@ -1189,4 +1189,5 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 2019-06-02
 	Some testing of size-invariant fitting are looking promising.
 
-
+2019-06-03
+	Writing up some of the notation of the Fourier fits and also tried another scaling size experiment.
