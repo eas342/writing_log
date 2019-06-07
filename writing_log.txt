@@ -1200,3 +1200,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-06-06
 	Updating crosshatch model fitting results sections.
+
+2019-06-07
+	Summarizing the different subarray choices section.
