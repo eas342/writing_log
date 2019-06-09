@@ -1203,3 +1203,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-06-07
 	Summarizing the different subarray choices section.
+
+2019-06-08
+	Added crosshatch fit results to plots.
