@@ -1206,3 +1206,8 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-06-08
 	Added crosshatch fit results to plots.
+
+2019-06-09
+	Redoing the PSF simulation with normalized PSD.
+
+
