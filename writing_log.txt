@@ -1210,4 +1210,5 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 2019-06-09
 	Redoing the PSF simulation with normalized PSD.
 
-
+2019-06-10
+	Fixing up the unit-scaling and PSD amplitude scaling for simulated PSDs.
