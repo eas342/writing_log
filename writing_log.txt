@@ -1212,3 +1212,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-06-10
 	Fixing up the unit-scaling and PSD amplitude scaling for simulated PSDs.
+
+2019-06-11
+	Crosshatch jitter simulations for 2 grism positions.
