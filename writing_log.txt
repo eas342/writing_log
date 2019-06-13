@@ -1215,3 +1215,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-06-11
 	Crosshatch jitter simulations for 2 grism positions.
+
+2019-06-12
+	Lab paper crosshatch: Resolved some aperture issues with a bigger square aperture and large FOV.
