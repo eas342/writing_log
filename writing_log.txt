@@ -1218,3 +1218,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-06-12
 	Lab paper crosshatch: Resolved some aperture issues with a bigger square aperture and large FOV.
+
+2019-06-13
+	Lab paper crosshatch: sanity check and saving results of sims at different grism positions.
