@@ -1221,3 +1221,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-06-13
 	Lab paper crosshatch: sanity check and saving results of sims at different grism positions.
+
+2019-06-14
+	Lab paper: edits and apertures in plots for OTIS grism t series.
