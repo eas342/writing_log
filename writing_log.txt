@@ -1224,3 +1224,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-06-14
 	Lab paper: edits and apertures in plots for OTIS grism t series.
+
+2019-06-15
+	Lab paper: working convolution with mask.
