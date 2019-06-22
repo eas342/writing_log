@@ -1239,3 +1239,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-06-20
 	Lab paper: applyied PCA to each amplifier separately and made a time series.
+
+2019-06-21
+	Lab paper: beginning to test RPI vs RPF w/ refpx
