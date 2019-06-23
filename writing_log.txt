@@ -1245,3 +1245,7 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-06-22
 	Lab paper: running subarray refpix on all RPI vs RPF
+
+2019-06-23
+	Lab paper: running ncdhas and phot pipeline on all red files with refpix correction applied.
+
