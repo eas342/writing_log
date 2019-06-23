@@ -1242,3 +1242,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-06-21
 	Lab paper: beginning to test RPI vs RPF w/ refpx
+
+2019-06-22
+	Lab paper: running subarray refpix on all RPI vs RPF
