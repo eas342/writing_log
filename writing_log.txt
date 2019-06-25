@@ -1249,3 +1249,5 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 2019-06-23
 	Lab paper: running ncdhas and phot pipeline on all red files with refpix correction applied.
 
+2019-06-24
+	Eigenspectra: made histogram plots of group assignments
