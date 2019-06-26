@@ -1251,3 +1251,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-06-24
 	Eigenspectra: made histogram plots of group assignments
+
+2019-06-25
+	Lab paper: plots for pca 1/f correction by individual amplifier
