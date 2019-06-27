@@ -1254,3 +1254,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-06-25
 	Lab paper: plots for pca 1/f correction by individual amplifier
+
+2019-06-26
+	Lab paper: more PCA 1/f corrections with extra bias sub.
