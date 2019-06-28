@@ -1259,4 +1259,7 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 	Lab paper: more PCA 1/f corrections with extra bias sub.
 
 2019-06-27
-	Lab paper: trying another 1/f correction algorithm - avg each group separately and subtract
+	Lab paper: trying another 1/f correction algorithm - avg each amp separately and subracting
+
+2019-06-28
+	Lab paper: writing up result when averaging each amp separately and subtracting.
