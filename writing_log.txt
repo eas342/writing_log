@@ -1269,3 +1269,7 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-06-29
 	Lab paper: fixed bug in plotting of LW aperture shift
+
+2019-07-02
+	Lab paper: tested the number of subpx positions in ap, and also short persistence section.
+
