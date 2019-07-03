@@ -1273,3 +1273,5 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 2019-07-02
 	Lab paper: tested the number of subpx positions in ap, and also short persistence section.
 
+2019-07-03
+	Lab paper: update the pixel-wise time series plot with median-convolved, extra bias subtracted values.
