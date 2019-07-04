@@ -1275,3 +1275,7 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-07-03
 	Lab paper: update the pixel-wise time series plot with median-convolved, extra bias subtracted values.
+
+2019-07-04
+	Lab paper: writing up why the right side subtraction and more effective.
+
