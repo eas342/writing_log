@@ -1287,3 +1287,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-07-07
 	Lab paper: doing crosshatch fits for all SCAs.
+
+2019-07-07
+	Lab paper: Fixing crosshatch fits for all SCAs.
