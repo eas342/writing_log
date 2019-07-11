@@ -1297,3 +1297,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 2019-07-10
 	Lab paper: Have to adjust the crosshatch more to fit B4 and B5.
 
+2019-07-11
+	Lab paper: Experimenting with including a PSD 'background' for crosshatching.
+
