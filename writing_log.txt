@@ -1300,3 +1300,5 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 2019-07-11
 	Lab paper: Experimenting with including a PSD 'background' for crosshatching.
 
+2019-07-12
+	Lab paper: Updating results with PSD 'background' fit.
