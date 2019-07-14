@@ -1302,3 +1302,7 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-07-12
 	Lab paper: Updating results with PSD 'background' fit.
+
+2019-07-13
+	Lab paper: Using original Fourier Phase and best-fit PSD to make crosshatch-only flats.
+
