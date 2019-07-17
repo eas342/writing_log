@@ -1311,3 +1311,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-07-15
 	Lab paper: stripe vs window from AZlab
+
+2019-07-16
+	Lab paper: persistence measurements from AZLab 04
