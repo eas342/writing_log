@@ -1314,3 +1314,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-07-16
 	Lab paper: persistence measurements from AZLab 04
+
+2019-07-17
+	Lab paper: updated section on asic dewar
