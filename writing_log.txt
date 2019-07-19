@@ -1320,3 +1320,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-07-18
 	Lab paper: added subsubsection on the subarray size comparison for AZLab 04.
+
+2019-07-19
+	Lab paper: trying the subarray size test again with no background aperture.
