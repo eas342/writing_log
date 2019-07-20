@@ -1323,3 +1323,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-07-19
 	Lab paper: trying the subarray size test again with no background aperture.
+
+2019-07-20
+	Lab paper: processing results of subarray size test without background aperture.
