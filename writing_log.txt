@@ -1329,3 +1329,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-07-21
 	Lab paper: tracking down one theory have about the unusual results for the subarray size test w/ out background aperture.
+
+2019-07-22
+	Lab paper: reset-per-integration vs reset-per-frame
