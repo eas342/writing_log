@@ -1332,3 +1332,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-07-22
 	Lab paper: reset-per-integration vs reset-per-frame
+
+2019-07-23
+	Lab paper: multiple apertures on each detector.
