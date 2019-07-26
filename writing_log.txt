@@ -1335,3 +1335,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-07-23
 	Lab paper: multiple apertures on each detector.
+
+2019-07-24
+	Lab paper: plotting time series of side ref pixels.
