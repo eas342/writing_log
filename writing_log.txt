@@ -1341,3 +1341,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-07-25
 	Lab paper: plotting ref pixels along with other diagnostics.
+
+2019-07-28
+	Lab ppaer: plots of many apertures along each detector.
