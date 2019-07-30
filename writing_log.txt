@@ -1343,4 +1343,7 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 	Lab paper: plotting ref pixels along with other diagnostics.
 
 2019-07-28
-	Lab ppaer: plots of many apertures along each detector.
+	Lab paper: plots of many apertures along each detector.
+
+2019-07-29
+	Lab paper: RPF vs RPI test text and repeated RPF and RPI with no background subtraction.
