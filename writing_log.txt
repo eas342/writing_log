@@ -1347,3 +1347,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-07-29
 	Lab paper: RPF vs RPI test text and repeated RPF and RPI with no background subtraction.
+
+2019-07-30
+	Lab paper: RPF vs RPI showing results with no backsub nor refpix.
