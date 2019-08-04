@@ -1353,3 +1353,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-08-01
 	Lab paper: Found a better reference on crosshatch and crystallographic structure.
+
+2019-08-02
+	Lab paper: A little more investigation of miller indices.
