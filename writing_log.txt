@@ -1356,3 +1356,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-08-02
 	Lab paper: A little more investigation of miller indices.
+
+2019-08-03
+	Lab paper: Small subsection about the sigma with and without refpix correction.
