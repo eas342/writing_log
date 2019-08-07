@@ -1362,3 +1362,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-08-04
 	Lab paper: Trying to compare dark series to new long baseline.
+
+2019-08-05
+	Lab paper: Comparing results using refpix with a vertically-offset background subtraction box.
