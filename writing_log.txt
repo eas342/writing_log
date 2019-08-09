@@ -1365,3 +1365,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-08-05
 	Lab paper: Comparing results using refpix with a vertically-offset background subtraction box.
+
+2019-08-06
+	Lab paper: added results of dark vs illuminated e-/px comparison test
