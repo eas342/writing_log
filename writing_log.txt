@@ -1375,3 +1375,5 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 2019-08-10
 	Lab paper: plotting stripe vs window when the source and background apertures are more than 512 px away.
 
+2019-08-11
+	Lab paper: added a time series immediately after turning LED on.
