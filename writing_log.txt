@@ -1380,3 +1380,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-08-12
 	Lab paper: going back to OTIS data to compare vertically and horizontally offset background boxes.
+
+2019-08-13
+	Lab paper: more investigations of OTIS grism data.
