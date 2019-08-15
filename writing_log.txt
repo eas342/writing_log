@@ -1383,3 +1383,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-08-13
 	Lab paper: more investigations of OTIS grism data.
+
+2019-08-14
+	Lab paper: showing big benefit of column-by-column then row-by-row grism subtraction for OTIS grism data.
