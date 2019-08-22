@@ -1389,3 +1389,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-08-15
 	Lab paper: comparing dark window versus dark stripe.
+
+2019-08-22
+	Lab paper: FPA temperature setpoint change test.
