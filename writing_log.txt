@@ -1392,3 +1392,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-08-22
 	Lab paper: FPA temperature setpoint change test.
+
+2019-08-24
+	Lab paper: refpx versus background subtraction results.
