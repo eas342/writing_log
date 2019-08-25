@@ -1395,3 +1395,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-08-24
 	Lab paper: refpx versus background subtraction results.
+
+2019-08-25
+	Lab paper: added some more calculations after better 1/f noise corrections.
