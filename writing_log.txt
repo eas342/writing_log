@@ -1398,3 +1398,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-08-25
 	Lab paper: added some more calculations after better 1/f noise corrections.
+
+2019-08-26
+	Lab paper: more calcs for 1/f noise with grism ap.
