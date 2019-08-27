@@ -1401,3 +1401,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-08-26
 	Lab paper: more calcs for 1/f noise with grism ap.
+
+2019-08-27
+	Lab paper: some back of the envelope calcs for read noise in grism ap.
