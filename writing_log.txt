@@ -1404,3 +1404,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-08-27
 	Lab paper: some back of the envelope calcs for read noise in grism ap.
+
+2019-08-28
+	Lab paper: more multi-aperture tests across different amplifiers.
