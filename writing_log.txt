@@ -1407,3 +1407,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-08-28
 	Lab paper: more multi-aperture tests across different amplifiers.
+
+2019-08-29
+	Lab paper: giving a use case of photon noise to compare with 1/f noise.
