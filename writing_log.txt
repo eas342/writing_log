@@ -1413,3 +1413,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-08-31
 	Lab paper: updating OTIS results after dramatic improvement using row-by-row and col-by-col subtraction.
+
+2019-09-01
+	Lab paper: started a more general tool to do background subtraction frame-by-frame
