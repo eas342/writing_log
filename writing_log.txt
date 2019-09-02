@@ -1416,3 +1416,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-09-01
 	Lab paper: started a more general tool to do background subtraction frame-by-frame
+
+2019-09-02
+	Lab paper: cheating and counting running a AZLab06 baseline as writing
