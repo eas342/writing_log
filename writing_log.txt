@@ -1419,3 +1419,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-09-02
 	Lab paper: cheating and counting running a AZLab06 baseline as writing
+
+2019-09-04
+	Lab paper: still doing a background subtraction frame-by-frame and then running other pipeline tools.
