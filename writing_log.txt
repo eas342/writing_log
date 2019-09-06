@@ -1422,3 +1422,7 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-09-04
 	Lab paper: still doing a background subtraction frame-by-frame and then running other pipeline tools.
+
+2019-09-05
+	Lab paper: finished plotting results of background subtraction frame-by-frame.
+
