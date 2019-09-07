@@ -1428,3 +1428,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-09-06
 	Lab paper: allan variance of AZLab06 and 05
+
+2019-09-07
+	Lab paper: adjusted allan variance plots to match each other. Also trying to compare across detectors from GL dewar data.
