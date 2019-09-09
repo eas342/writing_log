@@ -1434,3 +1434,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-09-08
 	Lab paper: updated GL dewar tests and started writing out the more definitive conclusions.
+
+2019-09-09
+	Lab paper: updates to FPA temp change plot and text.
