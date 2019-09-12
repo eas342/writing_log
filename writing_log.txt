@@ -1440,3 +1440,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-09-09
 	Proposals: started possible HST mid-cycle.
+
+2019-09-11
+	NIRCam lab paper: writing out conclusions in more detail.
