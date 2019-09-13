@@ -1443,3 +1443,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-09-11
 	NIRCam lab paper: writing out conclusions in more detail.
+
+2019-09-12
+	Propoals: started an LBT one.
