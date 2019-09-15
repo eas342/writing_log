@@ -1449,3 +1449,10 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-09-13
 	Proposals: ephemeris for LBT prop
+
+2019-09-14
+	Proposals: LBT analysis to prepare for proposals/observing.
+
+2019-09-15
+	Proposals: LBT analysis	to prepare for proposals/observing.
+
