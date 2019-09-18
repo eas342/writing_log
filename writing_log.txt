@@ -1461,3 +1461,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-09-17
 	Proposals: sent out LBT proposal
+
+2019-09-18
+	Lab paper: minor edits reading through sections 2 and 3.
