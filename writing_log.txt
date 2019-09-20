@@ -1464,3 +1464,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-09-18
 	Lab paper: minor edits reading through sections 2 and 3.
+
+2019-09-19
+	Lab paper: co-added versus rapid data
