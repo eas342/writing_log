@@ -1470,3 +1470,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-09-21
 	Lab paper: looking at some more GL dewar tests
+
+2019-09-22
+	Proposals: ruled out HST mid-cycle for SNR reasons
