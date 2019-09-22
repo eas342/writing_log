@@ -1467,3 +1467,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-09-19
 	Lab paper: co-added versus rapid data
+
+2019-09-21
+	Lab paper: looking at some more GL dewar tests
