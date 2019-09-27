@@ -1482,3 +1482,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-09-25
 	Proposals: submitted LBT
+
+2019-09-26
+	Lab paper: more details on GL dewar run 104.
