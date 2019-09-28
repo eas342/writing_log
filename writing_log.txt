@@ -1483,5 +1483,8 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 2019-09-25
 	Proposals: submitted LBT
 
-2019-09-26
+2019-09-27
 	Lab paper: more details on GL dewar run 104.
+
+2019-09-28
+	Lab paper: investigating within-detector performance of run 104.
