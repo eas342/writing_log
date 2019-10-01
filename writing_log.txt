@@ -1494,3 +1494,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-09-30
 	Lab paper: re-running all photometry for CV3
+
+2019-10-01
+	Lab paper: Finished re-doing all photometry for CV3
