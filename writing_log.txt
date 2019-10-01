@@ -1488,3 +1488,9 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-09-28
 	Lab paper: investigating within-detector performance of run 104.
+
+2019-09-29
+	lab paper: miscellaneous edits and re-doing CV3 reduction with newer code
+
+2019-09-30
+	Lab paper: re-running all photometry for CV3
