@@ -1500,3 +1500,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-10-03
 	Lab paper: Side-by-side comparison of GL and Asic dewar t series.
+
+2019-10-04
+	Lab paper: Sub320 test results vs stripe.
