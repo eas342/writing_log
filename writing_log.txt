@@ -1503,3 +1503,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-10-04
 	Lab paper: Sub320 test results vs stripe.
+
+2019-10-07
+	Lab paper: Sub320 oscillatory structure
