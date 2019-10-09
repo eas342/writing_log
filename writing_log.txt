@@ -1506,3 +1506,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-10-07
 	Lab paper: Sub320 oscillatory structure
+
+2019-10-09
+	Lab paper: Showing how oscillations go away with NFF=2048.
