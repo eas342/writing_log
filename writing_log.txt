@@ -1509,3 +1509,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-10-09
 	Lab paper: Showing how oscillations go away with NFF=2048.
+
+2019-10-10
+	Lab paper: idle versus exposing test
