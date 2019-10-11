@@ -1512,3 +1512,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-10-10
 	Lab paper: idle versus exposing test
+
+2019-10-11
+	Lab paper: showing long multi-exposure test
