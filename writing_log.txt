@@ -1518,3 +1518,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-10-12
 	Lab paper: mark exposure breaks in multi-exposure test
+
+2019-10-13
+	Lab paper: show the trends with temperature over the multi-exposure test.
