@@ -1527,3 +1527,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-10-15
 	Lab paper: more TMC current and voltage explorations
+
+2019-10-16
+	Lab paper: showing the Lakeshore T change test
