@@ -1536,3 +1536,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-10-19
 	Lab paper: differential illumination analysis of detector 490
+
+2019-10-20
+	Lab paper: more illum variation tests on 487-490
