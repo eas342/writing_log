@@ -1539,3 +1539,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-10-20
 	Lab paper: more illum variation tests on 487-490
+
+2019-10-21
+	Lab paper: added temperature info for long CV3 time series plot
