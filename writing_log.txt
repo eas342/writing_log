@@ -1542,3 +1542,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-10-21
 	Lab paper: added temperature info for long CV3 time series plot
+
+2019-10-22
+	Lab paper: better GL dewar vs asic dewar side-by-side comparison
