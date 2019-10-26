@@ -1548,3 +1548,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-10-24
 	Lab paper: more text describing the GL dewar tests.
+
+2019-10-25
+	Lab paper: another dramatic display of what happens if a horizontally-displayed aperture is used
