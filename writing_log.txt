@@ -1551,3 +1551,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-10-25
 	Lab paper: another dramatic display of what happens if a horizontally-displayed aperture is used
+
+2019-10-26
+	Lab paper: prepping flats for all images to better analyze subtle illumination changes
