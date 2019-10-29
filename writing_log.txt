@@ -1560,3 +1560,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-10-28
 	Lab paper: improving 1/f corrections for illumination analysis
+
+2019-10-29
+	Lab paper: examining flux gradient change over time
