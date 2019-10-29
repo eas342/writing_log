@@ -1557,3 +1557,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-10-27
 	Lab paper: generalized the flat-fielding process
+
+2019-10-28
+	Lab paper: improving 1/f corrections for illumination analysis
