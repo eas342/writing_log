@@ -1563,3 +1563,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-10-29
 	Lab paper: examining flux gradient change over time
+
+2019-10-30
+	Lab paper: compared the illum changes to the 487/489 slope ratio.
