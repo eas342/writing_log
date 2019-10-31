@@ -1566,3 +1566,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-10-30
 	Lab paper: compared the illum changes to the 487/489 slope ratio.
+
+2019-10-31
+	Lab paper: tracking illumination gradient on all 4 detectors
