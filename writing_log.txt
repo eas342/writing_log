@@ -1569,3 +1569,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-10-31
 	Lab paper: tracking illumination gradient on all 4 detectors
+
+2019-11-01
+	Lab paper: using profile line fit to estimate flux
