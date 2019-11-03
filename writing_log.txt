@@ -1572,3 +1572,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-11-01
 	Lab paper: using profile line fit to estimate flux
+
+2019-11-02
+	Lab paper: illumination gradient over longer exposure and also describing how it is calculated.
