@@ -1578,3 +1578,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-11-03
 	Lab paper: illumination gradient over longer exposure and also more 1/f noise investigation
+
+2019-11-04
+	Lab paper: plotting results of multi-exposure time series w/ profile fitting
