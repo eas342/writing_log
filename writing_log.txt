@@ -1581,3 +1581,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-11-04
 	Lab paper: plotting results of multi-exposure time series w/ profile fitting
+
+2019-11-05
+	Lab paper: re-organizing so that all the extra stuff is in the appendix
