@@ -1584,3 +1584,7 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-11-05
 	Lab paper: re-organizing so that all the extra stuff is in the appendix
+
+2019-11-06
+        Lab paper: investigating temperature fluctuations and 1/f spectrum of pixel time series
+
