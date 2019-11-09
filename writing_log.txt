@@ -1588,3 +1588,8 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 2019-11-06
         Lab paper: investigating temperature fluctuations and 1/f spectrum of pixel time series
 
+
+2019-11-07
+        Lab paper: changing to Lomb Scargle for the 1/f analysis.
+        KIC 1255 paper: figuring out PDF convolution for Gaussian & Raleigh
+
