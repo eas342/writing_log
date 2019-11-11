@@ -1594,4 +1594,7 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
         KIC 1255 paper: figuring out PDF convolution for Gaussian & Raleigh
 
 2019-11-09
-        KIC 1255 paper: more on Gaussian & Raleigh convolutio
+        KIC 1255 paper: more on Gaussian & Raleigh convolution
+
+2019-11-10
+        KIC 1255 paper: checking limit of convolution when sigma_r=sigma_g=1.
