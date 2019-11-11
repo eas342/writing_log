@@ -1598,3 +1598,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-11-10
         KIC 1255 paper: checking limit of convolution when sigma_r=sigma_g=1.
+
+2019-11-11
+        KIC 1255 paper: finished coding of Gaussian & Raleigh convolution
