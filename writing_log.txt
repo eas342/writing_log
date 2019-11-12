@@ -1601,3 +1601,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-11-11
         KIC 1255 paper: finished coding of Gaussian & Raleigh convolution
+
+2019-11-12
+        Lab paper: showing asic voltages w/ time series
