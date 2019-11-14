@@ -1604,3 +1604,9 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-11-12
         Lab paper: showing asic voltages w/ time series
+
+2019-11-13
+        KIC 1255 paper: writing up Gaussian and Raleigh convolution.
+
+2019-11-14
+        Lab paper: more on intrapixel sensitivity and 1/f
