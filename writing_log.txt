@@ -1610,3 +1610,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-11-14
         Lab paper: more on intrapixel sensitivity and 1/f
+
+2019-11-16
+        Lab paper: edits to section 2.
