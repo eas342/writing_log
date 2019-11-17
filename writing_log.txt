@@ -1613,3 +1613,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-11-16
         Lab paper: edits to section 2.
+
+2019-11-17
+        Lab paper: edits to crosshatching and general notes on detector tests.
