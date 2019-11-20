@@ -1622,3 +1622,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-11-19
         Lab paper: better LS periodogram to show 1/f noise
+
+2019-11-20
+        Lab paper: more 1/f and reorganization of known detector effects section.
