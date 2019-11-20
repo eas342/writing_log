@@ -1619,3 +1619,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-11-18
         Lab paper: edit to intro and fix to long CV3 plot
+
+2019-11-19
+        Lab paper: better LS periodogram to show 1/f noise
