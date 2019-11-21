@@ -1625,3 +1625,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-11-20
         Lab paper: more 1/f and reorganization of known detector effects section.
+
+2019-11-21
+        Lab paper: 1/f providing times and example dark frame.
