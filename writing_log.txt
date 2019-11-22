@@ -1628,3 +1628,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-11-21
         Lab paper: 1/f providing times and example dark frame.
+
+2019-11-22
+        Lab paper: put in examples of RTN and RC as well as other edits to section 2.
