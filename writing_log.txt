@@ -1640,3 +1640,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-11-27
         Lab paper: updates to RTN and calculations for WLP8.
+
+2019-11-28
+        Lab paper: simple algorithm to rind RC pixels
