@@ -1649,3 +1649,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-12-01
         Lab paper: reverting back to first RC pixel routine.
+
+2019-12-02
+        Lab paper: improving RTN algorithm so it better eliminates RC pixels
