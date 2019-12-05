@@ -1655,3 +1655,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-12-03
         Lab paper: showing 1/f and white noise together.
+
+2019-12-04
+        Lab paper: edits to 1/f noise text
