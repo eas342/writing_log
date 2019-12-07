@@ -1658,3 +1658,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-12-04
         Lab paper: edits to 1/f noise text
+
+2019-12-05
+        Lab paper: working on temperature offsets and correlations
