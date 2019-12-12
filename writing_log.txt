@@ -1664,3 +1664,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-12-06
         Lab paper: adding temperature corrections
+
+2019-12-07
+        Lab paper: also investigating correlations with FPA temp sensor current.
