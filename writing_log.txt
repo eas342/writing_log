@@ -1670,3 +1670,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-12-08
         Lab paper: more 1/f noise discussion.
+
+2019-12-09
+        Lab paper: fringing investigation from CV3 spectrum
