@@ -1673,3 +1673,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-12-09
         Lab paper: fringing investigation from CV3 spectrum
+
+2019-12-10
+        Lab paper: showing the pointing simulation
