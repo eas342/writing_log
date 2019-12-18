@@ -1679,3 +1679,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-12-11
         Lab paper: showing zoom-ins of pointing simulations
+
+2019-12-12
+        Lab paper: subpx crosshatch simulation w/ pointing model
