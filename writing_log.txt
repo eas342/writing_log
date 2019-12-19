@@ -1682,3 +1682,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-12-12
         Lab paper: subpx crosshatch simulation w/ pointing model
+
+2019-12-13
+        Lab paper: explaining pointing model better.
