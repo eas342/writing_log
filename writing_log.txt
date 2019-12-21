@@ -1683,8 +1683,11 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 2019-12-12
         Lab paper: subpx crosshatch simulation w/ pointing model
 
-2019-12-13
+2019-12-19
         Lab paper: explaining pointing model better.
 
-2019-12-14
+2019-12-20
         Lab paper: a few fixes & spec pipeline stuff for extraction
+
+2019-12-21
+        Lab paper: plotting new FPA temp test and more on spec pipeline.
