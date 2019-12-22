@@ -1691,3 +1691,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-12-21
         Lab paper: plotting new FPA temp test and more on spec pipeline.
+
+2019-12-22
+        Lab paper: starting the optimal extraction step.
