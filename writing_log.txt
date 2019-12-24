@@ -1694,3 +1694,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-12-22
         Lab paper: starting the optimal extraction step.
+
+2019-12-23
+        Lab paper: fixing the bad pixels w/ optimal extraction and saving to FITS file
