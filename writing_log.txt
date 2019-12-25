@@ -1700,3 +1700,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-12-24
         Lab paper/other work: saving a bunch of metadata to spectroscopy files in pipeline
+
+2019-12-25
+        Lab paper: adding spectroscopy of grism from CV data w/ new pipeline
