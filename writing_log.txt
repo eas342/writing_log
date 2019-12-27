@@ -1703,3 +1703,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-12-25
         Lab paper: adding spectroscopy of grism from CV data w/ new pipeline
+
+2019-12-26
+        Lab paper: edited pointing simulation description
