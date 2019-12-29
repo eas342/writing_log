@@ -1709,3 +1709,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-12-27
         Lab paper: plotting periodogram of grism spectrum
+
+2019-12-28
+        Lab paper: updated spectra fig w/ axes label
