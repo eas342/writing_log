@@ -1718,3 +1718,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-12-30
         Lab paper: false alarm probabilities for periodogram
+
+2019-12-31
+        Lab paper: subpixel grism positions
