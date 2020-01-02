@@ -1721,3 +1721,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-12-31
         Lab paper: subpixel grism positions
+
+2020-01-01
+        Lab paper: subpixel grism pos edits and long dark edits.
