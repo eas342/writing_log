@@ -1727,3 +1727,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-01-02
         Lab paper: extracting all OTIS time series spec
+
+2020-01-03
+        Lab paper: fixing extraction of OTIS time series spec
