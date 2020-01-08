@@ -1733,3 +1733,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-01-04
         Lab paper: cleaning up dynamic spec and re-reducing w/ flat field
+
+2019-01-06
+        Lab paper: further fixes to dynamic spectrum
