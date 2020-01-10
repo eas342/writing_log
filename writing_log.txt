@@ -1739,3 +1739,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2019-01-07
         Lab paper: plotting OTIS broadband time series and representative spec
+
+2019-01-08
+        Lab paper: improved dynamic spec and wave binning
