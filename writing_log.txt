@@ -1745,3 +1745,9 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-01-10
         Lab paper: showing effect of flat fielding
+
+2020-01-11
+        Lab paper: wavelength binned time series.
+
+2020-01-12
+        Lab paper: spectral cross-correlating and aligning code.
