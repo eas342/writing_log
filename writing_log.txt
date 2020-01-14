@@ -1751,3 +1751,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-01-12
         Lab paper: spectral cross-correlating and aligning code.
+
+2020-01-13
+        Lab paper: started trying sub-pixel alignment.
