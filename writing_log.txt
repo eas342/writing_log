@@ -1760,3 +1760,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-01-15
         Lab paper: further-improved sub-pixel alignment of OTIS spectra
+
+2020-01-16
+        Lab paper: showing the dispersion direction shifts.
