@@ -1763,3 +1763,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-01-16
         Lab paper: showing the dispersion direction shifts.
+
+2020-01-17
+        Lab paper: showing the LW and SW dispersion shifts simultaneously
