@@ -1766,3 +1766,9 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-01-17
         Lab paper: showing the LW and SW dispersion shifts simultaneously
+
+2020-01-18
+        Lab paper: Allan variance for the ratio adjacent wavelength channels t series
+
+2020-01-19
+        Lab paper: propagate errors through binned time series & allan variance.
