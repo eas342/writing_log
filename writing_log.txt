@@ -1781,3 +1781,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-01-24
         HST proposals: some SNR calcs
+
+2020-01-29
+        HST proposals: preparing time series and checking limitations
