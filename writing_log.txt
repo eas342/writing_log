@@ -1787,3 +1787,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-01-30
         HST proposals: plotting repesentative models against data
+
+2020-01-31
+        HST proposals: t series figure
