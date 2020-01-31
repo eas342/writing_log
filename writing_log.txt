@@ -1784,3 +1784,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-01-29
         HST proposals: preparing time series and checking limitations
+
+2020-01-30
+        HST proposals: plotting repesentative models against data
