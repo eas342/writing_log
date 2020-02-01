@@ -1790,3 +1790,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-01-31
         HST proposals: t series figure
+
+2020-02-01
+        HST proposals: Generalized t series figure to more planets
