@@ -1799,3 +1799,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-02-03
         Lab paper: made a list of changes for the big picture view of paper
+
+2020-02-04
+        Lab paper: plot of fringing found from avg OTIS spectrum
