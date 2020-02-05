@@ -1802,3 +1802,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-02-04
         Lab paper: plot of fringing found from avg OTIS spectrum
+
+2020-02-05
+        Lab paper: showing evidence for frining in CV3 spectrum
