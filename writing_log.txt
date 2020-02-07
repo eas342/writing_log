@@ -1808,3 +1808,7 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-02-06
         Lab paper: cleaning up the fringing section
+
+2020-02-07
+        Lab paper: generating slope to use in studying 1/f noise in grism aperture
+
