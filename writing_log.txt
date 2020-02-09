@@ -1814,3 +1814,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-02-08
         HST proposals: a few more calcs and plots
+
+2020-02-09
+        Eigenspec - experimenting with lightcurves and maps
