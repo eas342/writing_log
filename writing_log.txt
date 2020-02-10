@@ -1817,3 +1817,7 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-02-09
         Eigenspec - experimenting with lightcurves and maps
+
+2020-02-10
+        Lab paper: simulating slopes for OTIS darks
+
