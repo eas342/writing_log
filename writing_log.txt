@@ -1827,5 +1827,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 2020-02-12
         Lab paper: more assessment of 1/f noise w/ background subtraction and if we rotate the PSF (similar to C grism)
 
-
+2020-02-13
+        Lab paper: adding some grism data to nosie table
 
