@@ -1823,3 +1823,9 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-02-11
         Lab paper: assessing 1/f noise w/ spectrum by inserting grism PSF into darks
+
+2020-02-12
+        Lab paper: more assessment of 1/f noise w/ background subtraction and if we rotate the PSF (similar to C grism)
+
+
+
