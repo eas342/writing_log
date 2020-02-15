@@ -1832,3 +1832,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-02-14
         Lab paper: adding some 1/f noise info
+
+2020-02-15
+        Lab paper: more experiments trying to reduce 1/f in grism ap
