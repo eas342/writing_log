@@ -1841,3 +1841,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-02-17
         Lab paper: some simple wavecal for 1/f wavelength bin description.
+
+2020-02-18
+        Lab paper: more specifics on read noise with correct dispersion direction and smaller aperture
