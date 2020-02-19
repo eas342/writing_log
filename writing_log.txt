@@ -1844,3 +1844,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-02-18
         Lab paper: more specifics on read noise with correct dispersion direction and smaller aperture
+
+2020-02-19
+        Lab paper: doing a sim grism with the lab-based subarray stripe darks
