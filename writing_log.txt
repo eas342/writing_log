@@ -1847,3 +1847,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-02-19
         Lab paper: doing a sim grism with the lab-based subarray stripe darks
+
+2020-02-20
+        HST proposals: drafting abstact and intro text
