@@ -1853,3 +1853,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-02-21
         Lab paper: investigating weighted extraction for correlated read noise
+
+2020-02-22
+        Lab paper: investigating weighted average of bivariate gaussian distribution.
