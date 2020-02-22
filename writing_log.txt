@@ -1850,3 +1850,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-02-20
         HST proposals: drafting abstact and intro text
+
+2020-02-21
+        Lab paper: investigating weighted extraction for correlated read noise
