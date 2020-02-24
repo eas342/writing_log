@@ -1856,3 +1856,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-02-22
         Lab paper: investigating weighted average of bivariate gaussian distribution.
+
+2020-02-23
+        Lab paper: beginning to implement covariance weighted extraction
