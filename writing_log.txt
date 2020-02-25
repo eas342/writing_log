@@ -1863,3 +1863,5 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 2020-02-24
         Lab paper: ran the covariance weighted extraction
 
+2020-02-25  
+        HST proposals: making ortho maps and lc plots
