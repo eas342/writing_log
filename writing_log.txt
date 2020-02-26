@@ -1865,3 +1865,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-02-25  
         HST proposals: making ortho maps and lc plots
+
+2020-02-26
+        HST proposals: writing more context and some figs for prop
