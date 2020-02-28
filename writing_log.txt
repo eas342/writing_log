@@ -1868,3 +1868,7 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-02-26
         HST proposals: writing more context and some figs for prop
+
+2020-02-27
+        HST proposals: another time series figure
+
