@@ -1872,3 +1872,5 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 2020-02-27
         HST proposals: another time series figure
 
+2020-02-28
+        HST proposals: first draft
