@@ -1880,3 +1880,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-03-01
         JWST proposals: literature studies for targets
+
+2020-03-02
+        HST proposal: edited draft and updated fig
