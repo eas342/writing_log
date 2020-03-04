@@ -1886,3 +1886,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-03-03
         HST proposals: edited both proposals.
+
+2020-03-04
+        HST proposals: incorporating comments
