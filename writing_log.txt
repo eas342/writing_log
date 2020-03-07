@@ -1895,3 +1895,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-03-06
         HST proposals: submitting
+
+2020-03-07
+        Ground based proposals: ephemeris checks.
