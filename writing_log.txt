@@ -1901,3 +1901,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-03-08
         Lab paper: writing up the covariance weighted profile for spatially correlated data
+
+2020-03-09
+        Lab paper: estimates for 1/f noise in grism ap
