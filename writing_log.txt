@@ -1913,3 +1913,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-03-13
         Lab paper: double checking OTIS LW vs SW shift directions
+
+2020-03-14
+        Lab paper: updates to intro and known detector effects
