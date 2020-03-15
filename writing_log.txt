@@ -1916,3 +1916,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-03-14
         Lab paper: updates to intro and known detector effects
+
+2020-03-15
+        Lab paper: added some CV3 info and misc. text updates
