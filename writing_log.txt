@@ -1919,3 +1919,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-03-15
         Lab paper: added some CV3 info and misc. text updates
+
+2020-03-17
+        Lab paper: edits to CV3 description.
