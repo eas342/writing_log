@@ -1926,3 +1926,5 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 2020-03-18
         Lab paper: CV3 - investigating darks from un-illuminated regions
 
+2020-03-19
+        Lab paper: CV3 - writing about un-illuminated regions
