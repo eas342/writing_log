@@ -1928,3 +1928,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-03-19
         Lab paper: CV3 - writing about un-illuminated regions
+
+2020-03-20
+        Lab paper:  A/B anti-correlation for CV3
