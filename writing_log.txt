@@ -1931,3 +1931,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-03-20
         Lab paper:  A/B anti-correlation for CV3
+
+2020-03-21
+        Lab paper: more on CV3 and switched from t series to A vs B
