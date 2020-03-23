@@ -1937,3 +1937,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-03-22
         Implemented col-by-col and row-by-row sub or lab paper and K2-22 b
+
+2020-03-23
+        Lab paper: comparing annulus background to col-by-col row-by-row sub
