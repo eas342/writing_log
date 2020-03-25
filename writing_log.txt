@@ -1940,3 +1940,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-03-23
         Lab paper: comparing annulus background to col-by-col row-by-row sub
+
+2020-03-24
+        Lab paper: more on annulus background and digging into why results are different from earlier
