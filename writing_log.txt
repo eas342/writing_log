@@ -1949,3 +1949,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-03-28
         Lab paper: more tests to figure out why col-by-col row-by-row implementation doesn't help with CV3 stability
+
+2020-03-29
+        Lab paper: finally figured out that the col-by-col was causing the problems
