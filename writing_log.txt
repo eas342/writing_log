@@ -1952,3 +1952,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-03-29
         Lab paper: finally figured out that the col-by-col was causing the problems
+
+2020-03-30
+        Lab paper: adding results of row-by-row sub for CV3
