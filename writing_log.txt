@@ -1958,3 +1958,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-03-31
         Lab paper: trying to understand why row-by-row sub does not improve precision as much as we found before
+
+2020-04-01
+        Proposals: getting 2020A steward started
