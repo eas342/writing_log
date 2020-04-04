@@ -1964,3 +1964,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-04-02
         Proposals: working on observing modes on 2020A steward
+
+2020-04-03
+        Proposals: scientific justification
