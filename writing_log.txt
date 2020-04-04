@@ -1967,3 +1967,7 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-04-03
         Proposals: scientific justification
+
+2020-04-04
+        Proposals: more on scientific justification
+
