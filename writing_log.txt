@@ -1977,4 +1977,5 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 2020-04-06
         Proposals: tech justification
 
-        
+2020-04-07
+        Proposals: started second and more on 1st
