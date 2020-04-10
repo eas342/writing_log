@@ -1982,3 +1982,7 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-04-08
         Proposals: various updates
+
+2020-04-09
+        Proposals: more updates and initial submissions.
+
