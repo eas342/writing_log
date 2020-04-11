@@ -1988,3 +1988,7 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-04-10
         Proposals: final edits and submission
+
+2020-04-11
+        Lab paper: experimenting with X-only background subtraction on OTIS long darks
+
