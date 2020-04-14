@@ -1995,3 +1995,5 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 2020-04-12
         Lab paper: calculating optimall weightings for empirical cov matrix and WebbPSF PSF
 
+2020-04-13
+        Lab paper: smoothing the covariance matrix and working on covariance summation more
