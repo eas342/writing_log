@@ -1997,3 +1997,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-04-13
         Lab paper: smoothing the covariance matrix and working on covariance summation more
+
+2020-04-14
+        Lab paper: checking math and re-writing the summation for the covariance method
