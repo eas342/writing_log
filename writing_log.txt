@@ -2003,3 +2003,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-04-15
         Lab paper: rewriting some results from CV3 WLP8 tests
+
+2020-04-16
+        Lab paper: more edits to CV3 stuff and showing the covariance weights
