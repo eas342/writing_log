@@ -2000,3 +2000,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-04-14
         Lab paper: checking math and re-writing the summation for the covariance method
+
+2020-04-15
+        Lab paper: rewriting some results from CV3 WLP8 tests
