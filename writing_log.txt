@@ -2008,4 +2008,4 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
         Lab paper: more edits to CV3 stuff and showing the covariance weights
 
 2020-04-18
-        Lab paper: investigating profile-weighting formula and Gauss-Markov theorem
+        Lab paper: solved the covariance weighting numerically w/ correction to prev result, I think
