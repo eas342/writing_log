@@ -2012,3 +2012,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-04-19
         Lab paper: typing up the covariance weighting derivation from yesterday
+
+2020-04-20
+        Lab paper: moderate success with the cov weighting scheme.
