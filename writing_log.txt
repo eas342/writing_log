@@ -2018,3 +2018,12 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-04-21
         Lab paper: improved implementation of cov weighting
+
+2020-04-22
+        Lab paper: continued to improve implementation of cov weighting
+
+2020-04-23
+        Lab paper: more fixes needed to cov weighting
+
+2020-04-24
+        Lab paper: converging on cov weighting method and numbers to report
