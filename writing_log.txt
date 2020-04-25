@@ -2027,3 +2027,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-04-24
         Lab paper: converging on cov weighting method and numbers to report
+
+2020-04-25
+        Lab paper: experimenting w/ cov weighting that incorporates photon noise even when it's not in the simulation
