@@ -2030,3 +2030,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-04-25
         Lab paper: experimenting w/ cov weighting that incorporates photon noise even when it's not in the simulation
+
+2020-04-26
+        Lab paper: experimenting w/ analytic covariance matrix
