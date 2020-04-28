@@ -2036,3 +2036,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-04-27
         Lab paper: trying covariance weighting scheme with both spectral and spatial correlations
+
+2020-04-28
+        Lab paper: writing up results of covariance weighting
