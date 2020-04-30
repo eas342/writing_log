@@ -2042,3 +2042,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-04-29
         Lab paper: found a way to split the paper in 2
+
+2020-04-30
+        Lab paper: going through first 10 pg of paper 1
