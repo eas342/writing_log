@@ -2048,3 +2048,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-05-01
         Lab paper1: small edits to PCA and grism ap sections.
+
+2020-05-02
+        Lab paper1: code to plot spec apertures
