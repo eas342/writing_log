@@ -2045,3 +2045,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-04-30
         Lab paper: going through first 10 pg of paper 1
+
+2020-05-01
+        Lab paper1: small edits to PCA and grism ap sections.
