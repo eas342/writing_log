@@ -2057,3 +2057,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-05-04
         Lab paper1: added new grism aperture images and time series
+
+2020-05-05
+        Lab paper1: plots to show clear advantage of covariance weighting scheme
