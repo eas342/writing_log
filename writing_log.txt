@@ -2060,3 +2060,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-05-05
         Lab paper1: plots to show clear advantage of covariance weighting scheme
+
+2020-05-05
+        Lab paper1: edits to empirical covariance matrix section
