@@ -2069,3 +2069,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-05-07
         Lab paper1: writing up description of generic source
+
+2020-05-08
+        Lab paper1: editing fringing section
