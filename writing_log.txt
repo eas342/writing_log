@@ -2078,3 +2078,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-05-10
         Lab paper1: updated subpix crosshatch for latest full frame grism field point
+
+2020-05-11
+        Lab paper1: finished going through draft
