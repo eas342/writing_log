@@ -2081,3 +2081,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-05-11
         Lab paper1: finished going through draft
+
+2020-05-12
+        Lab paper1: tiny updates to acknowledgements
