@@ -2084,3 +2084,7 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-05-12
         Lab paper1: tiny updates to acknowledgements
+
+2020-05-13
+        Disintegrating paper 3: lightcurve for K2-22b
+
