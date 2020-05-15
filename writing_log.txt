@@ -2090,3 +2090,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-05-14
         Disintegrating p paper 3: starting to look into badpix issues
+
+2020-05-15
+        Disintegrating p paper 3: significant improvement w/ badpix adjustment
