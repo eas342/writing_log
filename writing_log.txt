@@ -2088,3 +2088,5 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 2020-05-13
         Disintegrating paper 3: lightcurve for K2-22b
 
+2020-05-14
+        Disintegrating p paper 3: starting to look into badpix issues
