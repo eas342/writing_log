@@ -2102,3 +2102,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-05-18
         Disintegrating p paper 3: going back and re-processing w/ better FF
+
+2020-05-19
+        Disintegrating p paper 3: going to an older data set to see if pipeline improvements help
