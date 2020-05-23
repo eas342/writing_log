@@ -2109,3 +2109,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 2020-05-20
         Disintegrating p paper 3: comparing old MIV results to tser_tools as well as previous reductions
 
+2020-05-22
+        Lab paper 1: going through comments from T Greene
+ 
