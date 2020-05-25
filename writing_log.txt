@@ -2117,3 +2117,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-05-24
         Lab paper 1: physically-based fringe model
+
+2020-05-25
+        Lab paper 1: TG comments through section 3
