@@ -2114,3 +2114,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
  
 2020-05-23
         Lab paper 1: improving fringing model
+
+2020-05-24
+        Lab paper 1: physically-based fringe model
