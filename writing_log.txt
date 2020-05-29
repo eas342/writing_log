@@ -2126,3 +2126,9 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-05-27
         Lab paper 1: finished TG individual comments
+
+2020-05-28
+        Lab paper 1: Half of MM comments
+
+2020-05-29
+        Lab paper 1: Second half of MM comments
