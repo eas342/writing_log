@@ -2138,3 +2138,9 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-06-06
         Lab paper 1: edits to intro and list of noise sources
+
+2020-06-07
+        Lab paper 1: investigating MIRAGE vs long dark CDS exploration some more
+
+2020-06-07
+        Lab paper 1: moving fancier 1/f techniques to appendix and re-organizing slightly
