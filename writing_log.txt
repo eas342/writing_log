@@ -2144,3 +2144,7 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-06-07
         Lab paper 1: moving fancier 1/f techniques to appendix and re-organizing slightly
+
+2020-06-08
+        Lab paper 1: a few small comparisons with NIRISS and NIRSPec
+
