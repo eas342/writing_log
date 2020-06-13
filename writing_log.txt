@@ -2148,3 +2148,5 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 2020-06-08
         Lab paper 1: a few small comparisons with NIRISS and NIRSPec
 
+2020-06-09
+        Lab paper 1: edits to even/odd correlations and conclusion
