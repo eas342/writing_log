@@ -2153,3 +2153,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-06-13
         Lab paper 1: completing draft of the split paper
+
+2020-06-14
+        Lab paper 2: drafting new intro
