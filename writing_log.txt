@@ -2167,4 +2167,8 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
         Lab paper 2: searching for more grism data for fringing tests
 
 2020-06-19
-        Lab paper 2: reducing and exploring grims data for fringing tests
+        Lab paper 2: reducing and exploring grism data for fringing tests
+
+2020-06-20
+        Lab paper 2: more fringing exploration
+
