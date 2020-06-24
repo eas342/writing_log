@@ -2172,3 +2172,11 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 2020-06-20
         Lab paper 2: more fringing exploration
 
+2020-06-21
+        Lab paper 1: incorporating TG comments
+
+2020-06-22
+        Lab paper 2: incorporating TG comments
+
+2020-06-23
+        Lab paper 2: incorporating TG comments pg 8
