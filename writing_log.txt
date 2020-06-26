@@ -2176,10 +2176,13 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
         Lab paper 1: incorporating TG comments
 
 2020-06-22
-        Lab paper 2: incorporating TG comments
+        Lab paper 1: incorporating TG comments
 
 2020-06-23
-        Lab paper 2: incorporating TG comments pg 8
+        Lab paper 1: incorporating TG comments pg 8
 
 2020-06-24
-        Lab paper 2: tracking down RPF offsets and updating detector schematic
+        Lab paper 1: tracking down RPF offsets and updating detector schematic
+
+2020-06-25
+        Lab paper 1: incorporating TG comments
