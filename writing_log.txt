@@ -2192,3 +2192,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-06-27
         Lab paper 1: finishing TPG comments
+
+2020-06-28
+        Lab paper 1: edits from JL and KM
