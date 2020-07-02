@@ -2204,3 +2204,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-07-01
         Lab paper 1: RTN by elimination of other pixels types
+
+2020-07-02
+        Lba paper 1: thinkin I'm finished up with RTN stuff
