@@ -2206,4 +2206,7 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
         Lab paper 1: RTN by elimination of other pixels types
 
 2020-07-02
-        Lba paper 1: thinkin I'm finished up with RTN stuff
+        Lab paper 1: thinkin I'm finished up with RTN stuff
+
+2020-07-03
+        Lab paper 1: GRISMR vs GRISMC
