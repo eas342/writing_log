@@ -2216,3 +2216,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-07-05
         Lab paper 1: GRISMR vs GRISMC figures
+
+2020-07-08
+        Lab paper 1: sent out draft
