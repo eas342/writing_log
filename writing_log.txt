@@ -2225,3 +2225,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-07-10
         Lab paper 2: plotting results of thermal + jitter sim
+
+2020-07-11
+        Lab paper 2: writing up thermal inter-boresight stuff
