@@ -2222,3 +2222,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-07-09
         Lab paper 1: returning to crosshatch sims with thermal boresight motion
+
+2020-07-10
+        Lab paper 2: plotting results of thermal + jitter sim
