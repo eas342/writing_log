@@ -2231,3 +2231,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-07-12
         Lab paper 2: writing up critical source aperture radius
+
+2020-07-13
+        Lab paper 2: digging for more data for fringing study
