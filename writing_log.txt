@@ -2234,3 +2234,9 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-07-13
         Lab paper 2: digging for more data for fringing study
+
+2020-07-14
+        Lab paper 1: re-reading aloud first half
+
+2020-07-15
+        Lab paper 1: re-reading aloud and submitting
