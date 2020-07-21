@@ -2246,3 +2246,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-07-18
         Lab paper 2: adding more filts/tests for fringing analysis
+
+2020-07-19
+        Lab paper 2: starting aperture loss calcs
