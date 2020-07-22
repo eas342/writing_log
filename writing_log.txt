@@ -2252,3 +2252,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-07-20
         Lab paper 2: Putting in OPD variations
+
+2020-07-21
+        Lab paper 2: calculating ap losses w/ WFE
