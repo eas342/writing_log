@@ -2255,3 +2255,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-07-21
         Lab paper 2: calculating ap losses w/ WFE
+
+2020-07-22
+        Lab paper 2: plotting results from ap losses w/ WFE
