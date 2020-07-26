@@ -2264,3 +2264,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-07-24
         Lab paper 2: starting the fancier WFE sim from JL
+
+2020-07-25
+        Lab paper 2: Improving the WFE sim from JL
