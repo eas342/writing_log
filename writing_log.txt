@@ -2270,3 +2270,7 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-07-26
         Lab paper 2: investigating backg and centering for WFE
+
+2020-07-27
+        Lab paper 2: summarizing results of WFE sim from JL
+
