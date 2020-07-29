@@ -2276,3 +2276,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-07-28
         Lab paper 2: fixing up text on WFE
+
+2020-07-29
+        Lab paper 2: finishing up WFE discussion
