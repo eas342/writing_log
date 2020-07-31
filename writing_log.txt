@@ -2283,3 +2283,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 2020-07-30
         Lab paper 2: a few tweaks to text and figures
 
+2020-07-31
+        Lab paper 2: looking at fringing again
+
