@@ -2288,3 +2288,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-08-01
         Lab paper 2: digging into difference in the OTIS time series vs throughput tests
+
+2020-08-02
+        Lab paper 2: read through pg 1-12 and made small edits/corrections
