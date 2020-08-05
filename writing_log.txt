@@ -2294,3 +2294,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-08-03
         Lab paper 1: starting to address comments from referee
+
+2020-08-04
+        Lab paper 1: remaking figure from commment in referee report
