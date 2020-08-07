@@ -2297,3 +2297,9 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-08-04
         Lab paper 1: remaking figure from commment in referee report
+
+2020-08-05
+        Lab paper 1: replaced OTIS grism figure with CV3 one for more representative PSF
+
+2020-08-06
+        Lab paper 1: more small comments from referee
