@@ -2303,3 +2303,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-08-06
         Lab paper 1: more small comments from referee
+
+2020-08-07
+        Lab paper 1: more small comments from referee
