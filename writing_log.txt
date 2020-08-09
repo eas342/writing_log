@@ -2309,3 +2309,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-08-08
         Lab paper 1: calculating covariance matrix for grismc subtraction
+
+2020-08-09
+        Lab paper 1: adding plots and descriptions of covariance w/ GRISMC info as appendix
