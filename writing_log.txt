@@ -2315,3 +2315,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-08-10
         Lab paper 1: spectral tilt
+
+2020-08-11
+        Lab paper 1: more minor comments addressed from referee - non-linearity, RTN stuff
