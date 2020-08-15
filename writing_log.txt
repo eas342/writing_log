@@ -2324,3 +2324,9 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-08-13
         Lab paper 1: more on RTN repeat
+
+2020-08-14
+        Lab paper 1: some info on dark current
+
+2020-08-15
+        Lab paper 1: finishing up info on dark current
