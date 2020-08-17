@@ -2333,3 +2333,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-08-16
         Lab paper 1: fixing up the \software and \facilities sections
+
+2020-08-17
+        Lab paper 2: separating out the fringing stuff since it seems related to the OSIM
