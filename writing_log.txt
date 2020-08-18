@@ -2336,3 +2336,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-08-17
         Lab paper 2: separating out the fringing stuff since it seems related to the OSIM
+
+2020-08-18
+        Lab paper 2: reciprocity failure stuff
