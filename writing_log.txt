@@ -2342,3 +2342,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-08-19
         Lab paper 2: reciprocity failure estimate from previous HgCdTe measurements
+
+2020-08-20
+        Lab paper 2: updates to persistence/charge trapping section
