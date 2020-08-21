@@ -2345,3 +2345,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-08-20
         Lab paper 2: updates to persistence/charge trapping section
+
+2020-08-21
+        Lab paper 2: plot of NIRCam lab vs WFC3
