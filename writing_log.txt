@@ -2348,3 +2348,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-08-21
         Lab paper 2: plot of NIRCam lab vs WFC3
+
+2020-08-22
+        Lab paper 2: explaining the NIRCam lab vs WFC3 test
