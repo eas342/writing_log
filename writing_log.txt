@@ -2354,3 +2354,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-08-23
         Lab paper 2: finishing up new persistence section
+
+2020-08-24
+        Lab paper 2: read-through and edits to sec 3. Lab paper 1: sending out new draft
