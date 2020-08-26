@@ -2357,3 +2357,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-08-24
         Lab paper 2: read-through and edits to sec 3. Lab paper 1: sending out new draft
+
+2020-08-25
+        Lab paper 1: read aloud through sections 1-3
