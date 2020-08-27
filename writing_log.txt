@@ -2366,3 +2366,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-08-27
         Lab paper 1: read aloud through final sections and appendices to catch typos.
+
+2020-08-28
+        Lab paper 1: re-submitted
