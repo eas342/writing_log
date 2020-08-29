@@ -2372,3 +2372,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-08-28
         Lab paper 2: working on combined results for known systematics.
+
+2020-08-29
+        Lab paper 2: starting section on temperature and working on combined results section
