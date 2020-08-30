@@ -2375,3 +2375,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-08-29
         Lab paper 2: starting section on temperature and working on combined results section
+
+2020-08-30
+        Lab paper 2: updates to combined results and Temp fluctuations
