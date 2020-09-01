@@ -2381,3 +2381,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-08-31
         Lab paper 2: adding more text to combined results and editing the T fluctuations section
+
+2020-09-01
+        Lab paper 2: edits to conclusions
