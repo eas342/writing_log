@@ -2387,3 +2387,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-09-02
         Lab paper 2: adding reference and edits to send out draft to collaborators
+
+2020-09-03
+        K2-22 paper: writing introductory material
