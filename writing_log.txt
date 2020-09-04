@@ -2390,3 +2390,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-09-03
         K2-22 paper: writing introductory material
+
+2020-09-04
+        K2-22 paper: adding summary of core/mantle/crust studies.
