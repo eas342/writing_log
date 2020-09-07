@@ -2399,3 +2399,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-09-06
         K2-22 paper: putting the two-colors plots together
+
+2020-09-07
+        K2-22 paper: more adjustments and putting in the two-color plots
