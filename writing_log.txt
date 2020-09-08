@@ -2402,3 +2402,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-09-07
         K2-22 paper: more adjustments and putting in the two-color plots
+
+2020-09-08
+        K2-22 paper: working on aperture optimization function
