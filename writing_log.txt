@@ -2405,3 +2405,7 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-09-08
         K2-22 paper: working on aperture optimization function
+
+2020-09-09
+        K2-22 paper: finishing aperture optimization function
+
