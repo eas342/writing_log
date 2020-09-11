@@ -2411,3 +2411,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-09-10
         K2-22 paper: making aperture plotting function and improving aperture sweep function
+
+2020-09-11
+        Lab paper 2: incorporating edits
