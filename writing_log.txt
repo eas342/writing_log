@@ -2417,3 +2417,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-09-12
         Lab paper 2: edits to sectiosn 2 and 3 from TPG comments
+
+2020-09-13
+        Lab paper 2: showing the crosshatch axes
