@@ -2413,13 +2413,16 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
         K2-22 paper: making aperture plotting function and improving aperture sweep function
 
 2020-09-11
-        Lab paper 1: incorporating edits to intro
+        Lab paper 2: incorporating edits to intro
 
 2020-09-12
-        Lab paper 1: edits to sectiosn 2 and 3 from TPG comments
+        Lab paper 2: edits to sectiosn 2 and 3 from TPG comments
 
 2020-09-13
-        Lab paper 1: showing the crosshatch axes
+        Lab paper 2: showing the crosshatch axes
 
 2020-09-14
-        Lab paper 1: adding diagram to show subarray/spec region positions
+        Lab paper 2: adding diagram to show subarray/spec region positions
+
+2020-09-15
+        Lab paper 2: more comparisons to previous IPS
