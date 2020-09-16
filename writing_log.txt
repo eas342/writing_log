@@ -2426,3 +2426,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-09-15
         Lab paper 2: more comparisons to previous IPS
+
+2020-09-16
+        Lab paper 2: incorporating comments from DK
