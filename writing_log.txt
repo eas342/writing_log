@@ -2432,3 +2432,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-09-17
         Lab paper 2: most of DK comments finished, with ghost remaining
+
+2020-09-18
+        Lab paper 2: adding a short item on ghost images
