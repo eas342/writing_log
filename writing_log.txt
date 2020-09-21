@@ -2441,3 +2441,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-09-20
         Lab paper 2: incorporating NN comments, working on aperture that scales with FWHM
+
+2020-09-21
+        Lab paper 2: comparing results w/ aperture that scales w/ FWHM
