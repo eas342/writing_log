@@ -2444,3 +2444,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-09-21
         Lab paper 2: comparing results w/ aperture that scales w/ FWHM
+
+2020-09-22
+        Lab paper 2: finishing variable versus fixed aperture experiment
