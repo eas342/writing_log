@@ -2451,4 +2451,5 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 2020-09-23
         Lab paper 2: finishing a few lingering comments and updates to intro after reading aloud
 
-
+2020-09-24
+        IRTF proposal: preparing a few models
