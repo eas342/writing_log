@@ -2453,3 +2453,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-09-24
         IRTF proposal: preparing a few models
+
+2020-09-25
+        IRTF proposal: plots for proposal
