@@ -2456,3 +2456,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-09-25
         IRTF proposal: plots for proposal
+
+2020-09-26
+        Lab paper 2: reading sections aloud
