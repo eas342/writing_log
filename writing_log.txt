@@ -2459,3 +2459,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-09-26
         Lab paper 2: reading sections aloud
+
+2020-09-27
+        Lab paper 2: fnished reading section 3 aloud and small wording changes
