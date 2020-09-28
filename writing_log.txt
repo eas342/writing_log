@@ -2461,4 +2461,7 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
         Lab paper 2: reading sections aloud
 
 2020-09-27
-        Lab paper 2: fnished reading section 3 aloud and small wording changes
+        Lab paper 2: finished reading section 3 aloud and small wording changes
+
+2020-09-28
+        IRTF proposal: incorporating figures w/ SNR
