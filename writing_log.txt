@@ -2465,3 +2465,9 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-09-28
         IRTF proposal: incorporating figures w/ SNR
+
+2020-09-29
+        IRTF proposal: sending out draft
+
+2020-09-30
+        Lab paper 2: incorporating JL comments
