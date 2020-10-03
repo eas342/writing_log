@@ -2477,3 +2477,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-10-02
         Steward proposal: drafting updated prop, ephemerides, etc.
+
+2020-10-03
+        Steward proposal: updating old 2020B stuff. Lab paper 2: incorporating more of JL comments
