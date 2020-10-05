@@ -2483,3 +2483,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-10-04
         Steward proposals: updates to prop 1 and feedback on Co-I ones.
+
+2020-10-05
+        Steward proposals: submitting
