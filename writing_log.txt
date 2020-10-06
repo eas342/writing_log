@@ -2486,3 +2486,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-10-05
         Steward proposals: submitting
+
+2020-10-06
+        Lab paper 2: small wording adjustments through section 5
