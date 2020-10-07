@@ -2489,3 +2489,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-10-06
         Lab paper 2: small wording adjustments through section 5
+
+2020-10-07
+        Lab paper 2: small wording adjustments after reading aloud through all sections and appendix
