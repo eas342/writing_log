@@ -2495,3 +2495,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-10-08
         JWST prop 1: looking at extinction some more
+
+2020-10-09
+        JWST prop 1: plotting extinction funcs
