@@ -2501,3 +2501,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-10-10
         JWST prop both: preparing LaTeX files w/ info from other props
+
+2020-10-11
+        JWST prop 1: more on extinction
