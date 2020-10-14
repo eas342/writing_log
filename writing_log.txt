@@ -2510,3 +2510,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-10-13
         JWST prop 1: SNR and extinction together
+
+2020-10-14
+        JWST prop 1: drafting some text for APT
