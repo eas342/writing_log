@@ -2513,3 +2513,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-10-14
         JWST prop 1: drafting some text for APT
+
+2020-10-15
+        JWST prop 1: preparing figure
