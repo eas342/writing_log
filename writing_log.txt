@@ -2522,3 +2522,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-10-17
         JWST prop 1: preparing more APT stuff
+
+2020-10-18
+        JWST prop 1: figure and composition text
