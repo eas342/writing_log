@@ -2528,3 +2528,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-10-19
 	JWST prop 1: text edits and some discussion
+
+2020-10-20
+	JWST prop 1: edits to text and figure update
