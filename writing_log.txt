@@ -2531,3 +2531,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-10-20
 	JWST prop 1: edits to text and figure update
+
+2020-10-21
+	JWST prop 1: working on new sensitivity estimates
