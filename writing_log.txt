@@ -2540,3 +2540,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-10-23
 	JWST prop 1: time series
+
+2020-10-24
+        JWST prop 1: time series w/ models
