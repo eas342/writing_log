@@ -2547,3 +2547,5 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 2020-10-25
         JWST prop 1: time series models w/ sublimation
 
+2020-10-26
+        JWST prop 1: clearly showing radius evolution
