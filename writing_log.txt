@@ -2549,3 +2549,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-10-26
         JWST prop 1: clearly showing radius evolution
+
+2020-10-27
+        JWST prop 2: new trend plot
