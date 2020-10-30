@@ -1,3 +1,4 @@
+
 Writing Log
 
 This is a log to keep track of writing that doesn't end up on gihub. However, it allows me to continue tracking daily writing progress with each commit recorded in the github history.
@@ -2555,3 +2556,9 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-10-28
         JWST prop 2: more details on targets
+
+2020-10-29
+        JWST prop 2: assembling data on targets
+
+2020-10-30
+        JWST prop 2: planning ancillary
