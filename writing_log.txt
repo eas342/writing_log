@@ -2562,3 +2562,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-10-30
         JWST prop 2: planning ancillary
+
+2020-10-31
+        JWST prop 2: updating material from previous proposals
