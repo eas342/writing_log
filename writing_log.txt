@@ -2565,3 +2565,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-10-31
         JWST prop 2: updating material from previous proposals
+
+2020-11-01
+        JWST prop 2: prepping APT, title abstract etc.
