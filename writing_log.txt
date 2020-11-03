@@ -2571,3 +2571,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-11-02
         JWST prop 2: prepping more SNR, APT etc.
+
+2020-11-03
+        JWST prop 2: prepping TA and other details in APT
