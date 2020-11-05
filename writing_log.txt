@@ -2577,3 +2577,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-11-04
         JWST prop 2: updating some ETC calcs
+
+2020-11-05
+        JWST prop 2: updating APT file
