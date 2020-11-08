@@ -2583,3 +2583,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-11-06
         JWST prop 2: updating science justification text
+
+2020-11-07
+        JWST prop 2: trying out different modes
