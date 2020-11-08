@@ -2586,3 +2586,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-11-07
         JWST prop 2: trying out different modes
+
+2020-11-08
+        JWST prop 2: realizing that it can't be done in small GO
