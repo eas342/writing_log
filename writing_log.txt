@@ -2598,3 +2598,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-11-11
         JWST prop misc: abandoning #2, starting #3
+
+2020-11-12
+        JWST prop 3: getting t series SNR
