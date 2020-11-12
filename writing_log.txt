@@ -2595,3 +2595,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-11-10
         JWST prop 2: trying crazy differential idea
+
+2020-11-11
+        JWST prop misc: abandoning #2, starting #3
