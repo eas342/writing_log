@@ -2601,3 +2601,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-11-12
         JWST prop 3: getting t series SNR
+
+2020-11-13
+        JWST prop 3: analyzing archival data
