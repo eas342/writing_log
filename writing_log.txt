@@ -2604,3 +2604,11 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-11-13
         JWST prop 3: analyzing archival data
+
+2020-11-15
+        JWST prop 3: analyzing archival data more
+
+2020-11-15
+        JWST prop 3: analyzing archival data again
+
+        
