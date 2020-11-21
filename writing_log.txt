@@ -2618,4 +2618,7 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
         JWST prop 3: examinig theoretical spec
 
 2020-11-19
-        JWST prop 1: preparing to send out draft
+        JWST prop 1: sending out draft
+
+2020-11-20
+        JWST prop 3: incorporating feedback.
