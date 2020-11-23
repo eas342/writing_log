@@ -2625,3 +2625,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-11-21
         JWST prop 1: calculating temps vs size
+
+2020-11-22
+        JWST prop 1: finishing calcs and incorporating feedback
