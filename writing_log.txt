@@ -2631,3 +2631,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-11-23
         JWST prop 1 and prop 3: submitting initial drafts and reviewing
+
+2020-11-24
+        JWST prop 1 and 3 reading aloud and re-submitting
