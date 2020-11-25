@@ -2634,3 +2634,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-11-24
         JWST prop 1 and 3 reading aloud and re-submitting
+
+2020-11-25
+        JWST noise paper 2: addressing first larger comment
