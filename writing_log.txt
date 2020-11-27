@@ -2641,3 +2641,5 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 2020-11-26
         JWST noise paper 2: finishing 1st comment and moving to 2nd larger comment
 
+2020-11-27
+        JWST noise ppaer 2: more introductory material as asked by reviewer
