@@ -2642,4 +2642,7 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
         JWST noise paper 2: finishing 1st comment and moving to 2nd larger comment
 
 2020-11-27
-        JWST noise ppaer 2: more introductory material as asked by reviewer
+        JWST noise paper 2: more introductory material as asked by reviewer
+
+2020-11-28
+        JWST noise paper 2: putting NIRCam results in context of other observatories
