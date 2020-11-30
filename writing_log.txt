@@ -2650,3 +2650,5 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 2020-11-29
         JWST noise paper 2: adding references to conclusion w/ broader implications
 
+2020-11-30
+        JWST noise paper 2: finishing up moving crosshatch details to appendix
