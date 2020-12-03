@@ -2655,3 +2655,10 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-12-01
         JWST noise paper 2: finishing up referee comments
+
+2020-12-02
+        JWST noise paper 2: feedback from co-authors
+
+2020-12-03
+        JWST noise paper 2: finishing feedback from co-authors
+
