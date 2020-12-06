@@ -2667,3 +2667,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-12-05
         JWST noise paper 2: tweaks after reading section 1 aloud and incorporating pointing info for other instruments
+
+2020-12-06
+        JWST noise paper 2: small fixes after reading aloud again
