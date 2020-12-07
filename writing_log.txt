@@ -2670,3 +2670,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-12-06
         JWST noise paper 2: small fixes after reading aloud again
+
+2020-12-07
+        JWST noise paper 2: finished edits and prep to re-submit
