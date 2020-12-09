@@ -2676,3 +2676,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-12-08
         JWST noise paper 2: final tweaks and re-submitting
+
+2020-12-09
+        K2-22 paper: observations sec
