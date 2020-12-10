@@ -2679,3 +2679,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-12-09
         K2-22 paper: observations sec
+
+2020-12-10
+        K2-22 paper: edits to observation sec
