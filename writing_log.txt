@@ -2682,3 +2682,7 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-12-10
         K2-22 paper: edits to observation sec
+
+2020-12-11
+        K2-22 paper: examining color differences
+
