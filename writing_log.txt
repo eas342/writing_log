@@ -2688,3 +2688,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-12-12
         K2-22 paper: trying ap optimization out
+
+2020-12-13
+        K2-22 paper: more on aperture optimization
