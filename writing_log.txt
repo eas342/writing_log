@@ -2691,3 +2691,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-12-13
         K2-22 paper: more on aperture optimization
+
+2020-12-14
+        K2-22 paper: experimenting with variable ap sizing
