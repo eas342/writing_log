@@ -2700,3 +2700,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-12-18
         K2-22 paper: aperture sweep w/ variable aperture scale param
+
+2020-12-20
+        K2-22 paper: making simple mie scattering/extinction package
