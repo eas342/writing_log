@@ -2706,3 +2706,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-12-21
         K2-22 paper: making simple light curve fitting tools
+
+2020-12-22
+        K2-22 paper: fitting transmission SED
