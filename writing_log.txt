@@ -2712,3 +2712,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-12-23
         K2-22 paper: calculating Mie scattering for log normal particle size distribution
+
+2020-12-24
+        K2-22 paper: fitting log-normal particle size distribution
