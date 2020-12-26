@@ -2718,3 +2718,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-12-25
         K2-22 paper: a few plots of fits and showing particle size distribution
+
+2020-12-26
+        K2-22 paper: describing simple lightcurve fits
