@@ -2721,3 +2721,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-12-26
         K2-22 paper: describing simple lightcurve fits
+
+2020-12-28
+        K2-22 paper: preparing MCMC fits
