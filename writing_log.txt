@@ -2727,3 +2727,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-12-29
         K2-22 paper: fixing MCMC fits
+
+2020-12-30
+        K2-22 paper: analyzing MCMC
