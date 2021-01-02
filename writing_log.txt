@@ -1,4 +1,3 @@
-
 Writing Log
 
 This is a log to keep track of writing that doesn't end up on gihub. However, it allows me to continue tracking daily writing progress with each commit recorded in the github history.
@@ -2736,3 +2735,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-01-01
         K2-22 paper: adding info from SED fit
+
+2021-01-02
+        K2-22 paper: adding more info on SED fit
