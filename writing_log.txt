@@ -2738,3 +2738,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-01-02
         K2-22 paper: adding more info on SED fit
+
+2021-01-03
+        K2-22 paper: showing posterior of SED fit
