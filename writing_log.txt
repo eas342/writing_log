@@ -2744,3 +2744,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-01-04
         K2-22 paper: writing some more about the posterior of the SED fit
+
+2020-01-05
+        K2-22 paper: minor fixes and revisions to draft. Sharing with collaborators
