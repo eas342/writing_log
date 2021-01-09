@@ -2756,3 +2756,8 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-01-08
         K2-22 paper: updates to plot/text from KS
+
+2020-01-09
+        K2-22 paper: starting to look at limits on planet radius
+
+
