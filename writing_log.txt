@@ -2745,19 +2745,20 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 2021-01-04
         K2-22 paper: writing some more about the posterior of the SED fit
 
-2020-01-05
+2021-01-05
         K2-22 paper: minor fixes and revisions to draft. Sharing with collaborators
 
-2020-01-06
+2021-01-06
         K2-22 paper: adding in 16" results
 
-2020-01-07
+2021-01-07
         K2-22 paper: minor updates to intro
 
-2020-01-08
+2021-01-08
         K2-22 paper: updates to plot/text from KS
 
-2020-01-09
+2021-01-09
         K2-22 paper: starting to look at limits on planet radius
 
-
+2021-01-10
+        K2-22 paper: MCMC fits for planet radius
