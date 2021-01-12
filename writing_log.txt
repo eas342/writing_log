@@ -2765,3 +2765,7 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-01-11
         K2-22 paper: looking at MCMC results and also checking prior
+
+2021-01-12
+        K2-22 paper: explaining formulae details and doing some estimates
+
