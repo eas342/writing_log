@@ -2780,3 +2780,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-01-16
         K2-22 paper: preparing Gaussian process fitting
+
+2021-01-17
+        K2-22 paper: more GP prep work
