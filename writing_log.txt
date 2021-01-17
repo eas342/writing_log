@@ -2774,3 +2774,9 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-01-14
         K2-22 paper: finishing up descriptions of mdot and radius constraints
+
+2021-01-15
+        K2-22 paper: more on lightcurve fitting
+
+2021-01-16
+        K2-22 paper: preparing Gaussian process fitting
