@@ -2786,3 +2786,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-01-18
         K2-22 paper: getting a better handle on the setting the mean for GP for application to LC
+
+2020-01-19
+        K2-22 paper: fitting example LC data for practice
