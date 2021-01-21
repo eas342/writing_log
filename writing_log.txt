@@ -2793,3 +2793,5 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 2021-01-20
         K2-22 paper: trying to use new tools to fit LC
 
+2021-01-21
+        K2-22 paper: more wrestling with pymc3 and theano
