@@ -2798,3 +2798,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-01-22
         K2-22 paper: a few more steps back on pymc3 to get it working
+
+2021-01-23
+        K2-22 paper: still wrestling with pymc3...
