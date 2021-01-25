@@ -2801,3 +2801,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-01-23
         K2-22 paper: still wrestling with pymc3...
+
+2021-01-24
+        K2-22 paper: trying to fix errors with matrix math
