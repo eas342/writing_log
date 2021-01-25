@@ -2804,3 +2804,7 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-01-24
         K2-22 paper: trying to fix errors with matrix math
+
+2021-01-25
+        K2-22 paper: submitting issue to try and fix lin algebra GP error
+
