@@ -2808,3 +2808,8 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 2021-01-25
         K2-22 paper: submitting issue to try and fix lin algebra GP error
 
+2021-01-26
+        K2-22 paper: finally getting some radius estimates with new prior
+
+2021-01-27
+        K2-22 paper: studying results and lc fits
