@@ -2813,3 +2813,7 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-01-27
         K2-22 paper: studying results and lc fits
+
+2021-01-28
+        K2-22 paper: trying to find posterior of LC to plot against data
+
