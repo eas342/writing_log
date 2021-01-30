@@ -2819,3 +2819,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-01-29
         K2-22 paper: finally got the posterior LC against the data
+
+2021-01-30
+        K2-22 paper: trying to understand why r results are unrealistically precise
