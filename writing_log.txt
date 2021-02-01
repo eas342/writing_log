@@ -2822,3 +2822,7 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-01-30
         K2-22 paper: trying to understand why r results are unrealistically precise
+
+2021-02-01
+        K2-22 paper: better understanding results and making plots for GP version to get radius
+
