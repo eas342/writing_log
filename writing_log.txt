@@ -2829,4 +2829,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 2021-02-01
         K2-22 paper: writing, summarizing and citing GP exoplanet fit results
 
-        
+2021-02-02
+        K2-22 paper: finishing up planet radius constraints. Starting composition-dependence for dust
+
