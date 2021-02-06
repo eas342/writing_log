@@ -2837,3 +2837,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2020-02-04
         K2-22 paper: fitting dust particle sizes for different materials w/ MCMC
+
+2020-02-05
+        K2-22 paper: troubleshooting problems with MCMC and dust_mie
