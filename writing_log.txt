@@ -2850,3 +2850,5 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 2021-02-09
         K2-22 paper: final dust particle size posteriors for all compositions
 
+2021-02-10
+        K2-22 paper: going back to show the 3 photometric bands
