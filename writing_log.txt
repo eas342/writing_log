@@ -2855,3 +2855,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-02-11
         K2-22 paper: some text and figure updates for open CCD phot
+
+2021-02-12
+        K2-22 paper: edits to text throughout before conclusions
