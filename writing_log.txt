@@ -2852,3 +2852,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-02-10
         K2-22 paper: going back to show the 3 photometric bands
+
+2021-02-11
+        K2-22 paper: some text and figure updates for open CCD phot
