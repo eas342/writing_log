@@ -2858,3 +2858,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-02-12
         K2-22 paper: edits to text throughout before conclusions
+
+2021-02-14
+        K2-22 paper: finishing drafting conclusion
