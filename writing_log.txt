@@ -2861,3 +2861,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-02-14
         K2-22 paper: finishing drafting conclusion
+
+2021-02-15
+        K2-22 paper: putting together star position plots
