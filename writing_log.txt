@@ -2867,3 +2867,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-02-16
         K2-22 paper: finishing up the appendix info about modified flat field
+
+2021-02-17
+        V1298Tau revisiting phot, K2-22 paper: sending draft to collaborators
