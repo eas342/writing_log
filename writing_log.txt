@@ -2870,3 +2870,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-02-17
         V1298Tau revisiting phot, K2-22 paper: sending draft to collaborators
+
+2021-02-18
+        V1298Tau doing basic bias/flat calibrations that were skipped before
