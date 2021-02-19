@@ -2873,3 +2873,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-02-18
         V1298Tau doing basic bias/flat calibrations that were skipped before
+
+2021-02-19
+        V1298Tau photometry with new calibration
