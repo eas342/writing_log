@@ -2879,3 +2879,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-02-20
         V1298Tau paper: experimenting more with aperture
+
+2021-02-21
+        V1298Tau paper: experimenting more with background subtraction
