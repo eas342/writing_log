@@ -2885,3 +2885,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-02-22
         V1298Tau paper: preparing MOS code with offsets
+
+2021-02-23
+        V1298Tau paper: more work on MOS code
