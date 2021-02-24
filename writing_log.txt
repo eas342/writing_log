@@ -2888,3 +2888,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-02-23
         V1298Tau paper: more work on MOS code
+
+2021-02-24
+        K2-22 paper: folding in feedback
