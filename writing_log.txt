@@ -2900,3 +2900,7 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-02-27
         K2-22 paper: folding in more feedback
+
+2021-02-28
+        K2-22 paper: more edits from feedback
+
