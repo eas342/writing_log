@@ -2909,3 +2909,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-03-02
         K2-22 paper: re-running all MCMC with new ephemeris
+
+2021-03-03
+        K2-22 paper: fixing some MCMC issues and minor edits
