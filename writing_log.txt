@@ -2921,3 +2921,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-03-06
         K2-22 paper: resolving MCMC bugs and convergence problems
+
+2021-03-07
+        K2-22 paper: updating with latest MCMC posteriors and other co-author feedback
