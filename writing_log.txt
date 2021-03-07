@@ -2919,3 +2919,5 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 2021-03-05
         K2-22 paper: found MCMC sampling problem and other small edits
 
+2021-03-06
+        K2-22 paper: resolving MCMC bugs and convergence problems
