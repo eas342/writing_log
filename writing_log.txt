@@ -2927,3 +2927,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-03-08
         K2-22 paper: finding volcanic eruption equivalents
+
+2021-03-10
+        K2-22 paper: incorporating more edits
