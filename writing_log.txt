@@ -2930,3 +2930,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-03-10
         K2-22 paper: incorporating more edits from feedback
+
+2021-03-11
+        K2-22 paper: digging into the dust particle literature a bit
