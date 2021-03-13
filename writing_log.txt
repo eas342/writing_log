@@ -2936,3 +2936,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-03-12
         K2-22 paper: finishing up all small comments
+
+2021-03-13
+        K2-22 paper: looking back at literature a bit for missed papers
