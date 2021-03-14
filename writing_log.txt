@@ -2939,3 +2939,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-03-13
         K2-22 paper: looking back at literature a bit for missed papers
+
+2021-03-14
+        K2-22 paper: noting some things about lightcurve shapes and trying out asymmetric model for a test
