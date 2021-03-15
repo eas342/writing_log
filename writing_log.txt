@@ -2942,3 +2942,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-03-14
         K2-22 paper: noting some things about lightcurve shapes and trying out asymmetric model for a test
+
+2021-03-15
+        K2-22 paper: adding a few more notes on evap models, title and progenitors plot
