@@ -2948,3 +2948,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-03-16
         K2-22 paper: incorporating mdot plot and fixing propagations of earlier mdot error
+
+2021-03-17
+        K2-22 paper: finishing up draft of new discussion and conclusions
