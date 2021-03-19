@@ -2954,3 +2954,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-03-18
         V1298 Tau: working on MOS extraction
+
+2021-03-19
+        V1298 Tau: improving MOS background subtraction
