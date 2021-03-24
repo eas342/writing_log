@@ -2966,3 +2966,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-03-22
         HST Prop: getting back up to speed from previous proposal
+
+2021-03-23
+        HST prop: fitting archival results
