@@ -2972,3 +2972,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-03-24
         HST prop: more fitting of archival results
+
+2021-03-25
+        K2-22 prop: updates from feedback
