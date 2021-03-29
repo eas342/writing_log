@@ -2984,3 +2984,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-03-28
         K2-22 paper: adding more details of occurrence rate calc
+
+2021-03-29
+        K2-22 paper: adding better context to model comparisons
