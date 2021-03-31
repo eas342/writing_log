@@ -2990,3 +2990,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-03-30
         HST proposal: going back to proposal text & comments
+
+2021-03-31
+        HST proposal: fitting prev lightcurves
