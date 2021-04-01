@@ -2993,3 +2993,7 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-03-31
         HST proposal: fitting prev lightcurves
+
+2021-04-01
+        HST proposal: making new strategy for models
+
