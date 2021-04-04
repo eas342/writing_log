@@ -2999,3 +2999,11 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-04-02
         HST proposal: trying out new modeling strategy
+
+2021-04-03
+        HST proposal: modeling w/ GCM and sinusoid
+
+2021-04-04
+        HST proposal: looking at baselines, AZ prop
+
+
