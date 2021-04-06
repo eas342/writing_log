@@ -3006,4 +3006,5 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 2021-04-04
         HST proposal: looking at baselines, AZ prop
 
-
+2021-04-05
+        HST proposal: fitting old and proposed data for diff
