@@ -3008,3 +3008,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-04-05
         HST proposal: fitting old and proposed data for diff
+
+2021-04-06
+        HST proposal: finding posterior distribution with sim with a few models
