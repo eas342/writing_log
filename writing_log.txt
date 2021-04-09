@@ -3015,3 +3015,5 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 2021-04-07
         HST proposal: updating text and figures with model posteriors
 
+2021-04-08
+        HST proposal: incorporating feedback and submitting first draft
