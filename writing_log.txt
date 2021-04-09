@@ -3017,3 +3017,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-04-08
         HST proposal: incorporating feedback and submitting first draft
+
+2021-04-09
+        HST proposal: small revisions. K2-2 paper re-reading.
