@@ -3020,3 +3020,7 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-04-09
         HST proposal: small revisions. K2-2 paper re-reading.
+
+2021-04-12
+        K2-22 paper: reading aloud through sec 3.2
+
