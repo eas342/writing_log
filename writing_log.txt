@@ -3026,3 +3026,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-04-13
         K2-22 paper: finished full read aloud and fixing typos
+
+2021-04-14
+        K2-22 paper: submitted to AAS journals
