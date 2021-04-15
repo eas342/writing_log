@@ -3029,3 +3029,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-04-14
         K2-22 paper: submitted to AAS journals
+
+2021-04-15
+        V1298 Tau: diagnosing and updating MOS code 
