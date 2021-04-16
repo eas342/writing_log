@@ -3032,3 +3032,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-04-15
         V1298 Tau: diagnosing and updating MOS code 
+
+2021-04-16
+        V1298 Tau: starting to align MOS
