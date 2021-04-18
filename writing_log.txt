@@ -3035,3 +3035,9 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-04-16
         V1298 Tau: starting to align MOS
+
+2021-04-17
+        V1298 Tau: aligning MOS
+
+2021-04-18
+        V1298 Tau: more aligning MOS
