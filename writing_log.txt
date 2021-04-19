@@ -3041,3 +3041,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-04-18
         V1298 Tau: more aligning MOS
+
+2021-04-19
+        V1298 Tau: checking spectrum alignment in a different way
