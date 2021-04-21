@@ -3047,3 +3047,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-04-20
         V1298 Tau: fixing the profile fitting
+
+2021-04-21
+        V1298 Tau: tweaks to background sub and profile fitting
