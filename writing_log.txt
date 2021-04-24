@@ -3056,3 +3056,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-04-23
         V1298 Tau: investigating non-linear correction model
+
+2021-04-24
+        V1298 Tau: trying out more complicated non-linear correction model
