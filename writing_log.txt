@@ -3053,3 +3053,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-04-22
         V1298 Tau: realizing that there are more complicated distortions than just shifts between reference stars
+
+2021-04-23
+        V1298 Tau: investigating non-linear correction model
