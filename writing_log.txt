@@ -3062,3 +3062,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-04-25
         V1298 Tau: looking at correlation with airmass
+
+2021-04-26
+        V1298 Tau: dynamic spectra
