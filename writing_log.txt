@@ -3065,3 +3065,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-04-26
         V1298 Tau: dynamic spectra
+
+2021-04-27
+        V1298 Tau: dynamic spectra w/ ingress/egress info
