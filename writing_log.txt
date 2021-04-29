@@ -3071,3 +3071,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-04-28
         V1298 Tau: fixing ephem, organizing images and files
+
+2021-04-29
+        V1298 Tau: trying to understand systematics better
