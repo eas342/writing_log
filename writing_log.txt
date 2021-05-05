@@ -3083,3 +3083,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-05-03
         BJ paper: analyzing histos
+
+2021-05-04
+        Baseline mapping: setting up forward model
