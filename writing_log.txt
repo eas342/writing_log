@@ -3086,3 +3086,9 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-05-04
         Baseline mapping: setting up forward model
+
+2021-05-05
+        Baseline mapping: more fixes to forward model
+
+2021-05-06
+        Baseline ampping: fixing/understanding cov matrix
