@@ -3091,4 +3091,7 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
         Baseline mapping: more fixes to forward model
 
 2021-05-06
-        Baseline ampping: fixing/understanding cov matrix
+        Baseline mapping: fixing/understanding cov matrix
+
+2021-05-07
+        Baseline mapping: addin gin baseline terms
