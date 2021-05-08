@@ -3095,3 +3095,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-05-07
         Baseline mapping: addin gin baseline terms
+
+2021-05-08
+        Baseline mapping: setting up GP model
