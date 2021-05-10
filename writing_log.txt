@@ -3099,5 +3099,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 2021-05-08
         Baseline mapping: setting up GP model
 
-2021-05-09
+2021-05-10
         Baseline mapping: more setup
+
