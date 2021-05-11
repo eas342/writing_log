@@ -3102,3 +3102,5 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 2021-05-10
         Baseline mapping: more setup
 
+2021-05-11
+        Baseline mapping: saving/loading mxap
