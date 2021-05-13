@@ -3107,3 +3107,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-05-12
         BJ paper: fitting newer lc
+
+2021-05-13
+        K2-22: starting on reviewer comments
