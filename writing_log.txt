@@ -3116,3 +3116,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-05-15
         K2-22: updating posterior distributions plot to log-log
+
+2021-05-16
+        K2-22: finished addressing reviewer comments
