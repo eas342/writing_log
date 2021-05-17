@@ -3119,3 +3119,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-05-16
         K2-22: finished addressing reviewer comments
+
+2021-05-17
+        K2-22: fished data behind figures and response to reviewer
