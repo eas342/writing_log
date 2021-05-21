@@ -3128,3 +3128,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-05-19
         BJ paper: looking at baseline as a possible correlation with timing
+
+2021-05-20
+        BJ paper: finding error in the timing of phase
