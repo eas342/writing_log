@@ -3131,3 +3131,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-05-20
         BJ paper: finding error in the timing of phase
+
+2021-05-23
+        BEM paper: plotting GP fit
