@@ -3134,3 +3134,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-05-23
         BEM paper: plotting GP fit
+
+2021-05-24
+        K2-22 paper: reading through to find any last mistakes before re-submitting.
