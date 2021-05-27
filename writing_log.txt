@@ -3140,3 +3140,7 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-05-25
         K2-22 paper: resubmitted
+
+2021-05-27
+        BEM paper: discovering problem w/ GP over-fitting
+
