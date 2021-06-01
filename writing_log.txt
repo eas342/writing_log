@@ -3144,3 +3144,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 2021-05-27
         BEM paper: discovering problem w/ GP over-fitting
 
+2021-05-31
+        BEM paper: examining priors to study more options
+        
