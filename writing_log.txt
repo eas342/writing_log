@@ -3152,3 +3152,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-06-06
         BEM paper: setting up and organizing comparison between flat and baseline-included lightcurves
+
+2021-06-07
+        BEM paper: organizing model wrapper class and starting sampling
