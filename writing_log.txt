@@ -3161,3 +3161,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-06-09
         BEM paper: setting up MC inference
+
+2021-06-10
+        BEM paper: plotting corners
