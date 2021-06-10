@@ -3155,3 +3155,9 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-06-07
         BEM paper: organizing model wrapper class and starting sampling
+
+2021-06-08
+        BEM paper: setting up side-by-side flat versus trended baseline
+
+2021-06-09
+        BEM paper: setting up MC inference
