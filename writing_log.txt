@@ -3164,3 +3164,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-06-10
         BEM paper: plotting corners
+
+2021-06-11
+        BEM paper: initial results w/ flat vs baseline
