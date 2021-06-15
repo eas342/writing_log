@@ -3168,5 +3168,9 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 2021-06-11
         BEM paper: initial results w/ flat vs baseline
 
-2021-06-12
-        K2-2 paper: preparing and submitting to arXiv
+2021-06-14
+        K2-22 paper: preparing and submitting to arXiv
+
+2021-06-15
+        BEM paper: analyzing Ylm results
+
