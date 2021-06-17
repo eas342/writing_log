@@ -3176,3 +3176,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-06-16
         BEM paper: plotting lightcurves of Ylm affected by baselines
+
+2021-06-17
+        BEM paper: starting draft for preliminary results
