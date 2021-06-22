@@ -3179,3 +3179,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-06-17
         BEM paper: starting draft for preliminary results
+
+2021-06-22
+        BEM paper: putting forward model info
