@@ -3185,3 +3185,9 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-06-23
         BEM paper: more info on forward model
+
+2021-06-24
+        K2-22 paper: checking over proofs
+
+2021-06-25
+        BEM paper: making smaller corner for legibility
