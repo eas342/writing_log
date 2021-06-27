@@ -3191,3 +3191,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-06-25
         BEM paper: making smaller corner for legibility
+
+2021-06-27
+        Kep1520: inspecting data
