@@ -3194,3 +3194,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-06-27
         Kep1520: inspecting data
+
+2021-06-28
+        Kep1520: preparing calibrations
