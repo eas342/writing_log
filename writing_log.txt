@@ -3197,3 +3197,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-06-28
         Kep1520: preparing calibrations
+
+2021-06-29
+        Kep1520: fixing issues with flat fields
