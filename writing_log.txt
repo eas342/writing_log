@@ -3203,3 +3203,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-06-30
         Kep1520: reducing w/ imperfect flat fields and doing first attempt at lc
+
+2021-07-01
+        Kep1520: finding major issues with centroids and searching for a solution
