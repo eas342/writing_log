@@ -3209,3 +3209,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-07-02
         Kep1520: working with sim data to deal with centroid shift problems
+
+2021-07-03
+        Kep1520: trying out a new method of tracking drifts with a drift file
