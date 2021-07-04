@@ -3211,4 +3211,8 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
         Kep1520: working with sim data to deal with centroid shift problems
 
 2021-07-03
-        Kep1520: trying out a new method of tracking drifts with a drift file
+        Kep1520: trying out a new method of tracking drifts with a drift file. Also optimizing aperture
+
+2021-07-04
+        Kep1520: reducing LUCI data
+
