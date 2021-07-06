@@ -3216,3 +3216,5 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 2021-07-04
         Kep1520: reducing LUCI data
 
+2021-07-05
+        Kep1520: making better flat fields for LUCI data
