@@ -3216,8 +3216,11 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 2021-07-04
         Kep1520: reducing LUCI data
 
-2021-07-05
+2021-07-06
         Kep1520: making better flat fields for LUCI data
 
-2021-07-06
+2021-07-07
         Kep1520: re-reducing data w/ new flat fields and bad px mask
+
+2021-07-08
+        Kep1520: combining multi-band phot
