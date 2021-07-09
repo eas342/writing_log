@@ -3224,3 +3224,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-07-08
         Kep1520: combining multi-band phot
+
+2021-07-09
+        Kep1520: optimizing K band apertures and examining transit
