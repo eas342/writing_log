@@ -3227,3 +3227,6 @@ This is a log to keep track of writing that doesn't end up on gihub. However, it
 
 2021-07-09
         Kep1520: optimizing K band apertures and examining transit
+
+2021-07-10
+        Kep1520: further ap optimizing
